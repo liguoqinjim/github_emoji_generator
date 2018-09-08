@@ -29,13 +29,13 @@
 |||family: woman, woman, girl, boy|421|
 |||family: woman, woman, boy, boy|422|
 |||family: woman, woman, girl, girl|423|
-|||family: man, boy|424|
+|family_man_boy_boy|:family_man_boy_boy:|family: man, boy|424|
 |||family: man, boy, boy|425|
-|||family: man, girl|426|
+|family_man_girl_girl|:family_man_girl_girl:|family: man, girl|426|
 |||family: man, girl, boy|427|
 |||family: man, girl, girl|428|
-|||family: woman, boy|429|
+|family_woman_boy_boy|:family_woman_boy_boy:|family: woman, boy|429|
 |||family: woman, boy, boy|430|
-|||family: woman, girl|431|
+|family_woman_girl_girl|:family_woman_girl_girl:|family: woman, girl|431|
 |||family: woman, girl, boy|432|
 |||family: woman, girl, girl|433|

@@ -339,13 +339,7 @@ func (unicodeEmoji *UnicodeEmoji) MatchGithubEmoji() {
 		if len(githubEmoji.Codes) != len(unicodeEmoji.Codes) {
 			continue
 		} else {
-			match := true
-			for n := range githubEmoji.Codes {
-				if strings.ToUpper(githubEmoji.Codes[n]) != strings.ToUpper(unicodeEmoji.Codes[n]) {
-					match = false
-					break
-				}
-			}
+			match := codesEqual(githubEmoji, unicodeEmoji)
 
 			if !match {
 				continue
@@ -359,5 +353,51 @@ func (unicodeEmoji *UnicodeEmoji) MatchGithubEmoji() {
 				break
 			}
 		}
+	}
+}
+
+//注意c2为UnicodeEmoji的codes
+func codesEqual(githubEmoji *GithubEmoji, unicodeEmoji *UnicodeEmoji) bool {
+	c1 := githubEmoji.Codes
+	c2 := unicodeEmoji.Codes
+	if len(c1) != len(c2) {
+		return false
+	}
+
+	emoji_unicode_same := true //Estonia，这样的emoji
+	if len(c2) == 1 {
+		emoji_unicode_same = false
+	} else {
+		for i := 0; i < len(c2)-1; i++ {
+			if c2[i] != c2[i+1] {
+				emoji_unicode_same = false
+				break
+			}
+		}
+	}
+
+	if emoji_unicode_same {
+		for i := range c1 {
+			if strings.ToLower(c1[i]) != strings.ToLower(c2[i]) {
+				return false
+			}
+		}
+		return true
+	} else {
+		for _, v1 := range c1 {
+			has := false
+
+			for _, v2 := range c2 {
+				if strings.ToLower(v1) == strings.ToLower(v2) {
+					has = true
+					break
+				}
+			}
+
+			if !has {
+				return false
+			}
+		}
+		return true
 	}
 }
