@@ -11,7 +11,7 @@
 |gun|:gun:|pistol|1134|
 |bow_and_arrow|:bow_and_arrow:|bow and arrow|1135|
 |shield|:shield:|shield|1136|
-|man_mechanic|:man_mechanic:|wrench|1137|
+|wrench|:wrench:|wrench|1137|
 |nut_and_bolt|:nut_and_bolt:|nut and bolt|1138|
 |gear|:gear:|gear|1139|
 |clamp|:clamp:|clamp|1140|

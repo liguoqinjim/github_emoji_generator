@@ -8,6 +8,6 @@
 |studio_microphone|:studio_microphone:|studio microphone|1005|
 |level_slider|:level_slider:|level slider|1006|
 |control_knobs|:control_knobs:|control knobs|1007|
-|man_singer|:man_singer:|microphone|1008|
+|microphone|:microphone:|microphone|1008|
 |headphones|:headphones:|headphone|1009|
 |radio|:radio:|radio|1010|

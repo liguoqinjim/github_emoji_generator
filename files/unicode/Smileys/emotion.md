@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|couplekiss_man_man|:couplekiss_man_man:|kiss mark|114|
+|kiss|:kiss:|kiss mark|114|
 |love_letter|:love_letter:|love letter|115|
 |cupid|:cupid:|heart with arrow|116|
 |gift_heart|:gift_heart:|heart with ribbon|117|
@@ -14,7 +14,7 @@
 |heart_decoration|:heart_decoration:|heart decoration|123|
 |heavy_heart_exclamation|:heavy_heart_exclamation:|heavy heart exclamation|124|
 |broken_heart|:broken_heart:|broken heart|125|
-|couple_with_heart_man_man|:couple_with_heart_man_man:|red heart|126|
+|heart|:heart:|red heart|126|
 |||orange heart|127|
 |yellow_heart|:yellow_heart:|yellow heart|128|
 |green_heart|:green_heart:|green heart|129|
@@ -30,8 +30,8 @@
 |hole|:hole:|hole|139|
 |bomb|:bomb:|bomb|140|
 |speech_balloon|:speech_balloon:|speech balloon|141|
-|eye|:eye:|eye in speech bubble|142|
-|eye_speech_bubble|:eye_speech_bubble:|left speech bubble|143|
+|||eye in speech bubble|142|
+|||left speech bubble|143|
 |right_anger_bubble|:right_anger_bubble:|right anger bubble|144|
 |thought_balloon|:thought_balloon:|thought balloon|145|
 |zzz|:zzz:|zzz|146|

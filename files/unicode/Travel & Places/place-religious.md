@@ -18,7 +18,7 @@
 |hotel|:hotel:|hotel|705|
 |love_hotel|:love_hotel:|love hotel|706|
 |convenience_store|:convenience_store:|convenience store|707|
-|man_teacher|:man_teacher:|school|708|
+|school|:school:|school|708|
 |department_store|:department_store:|department store|709|
 |factory|:factory:|factory|710|
 |japanese_castle|:japanese_castle:|Japanese castle|711|

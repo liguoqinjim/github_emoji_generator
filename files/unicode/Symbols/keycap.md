@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|man_health_worker|:man_health_worker:|medical symbol|1270|
+|||medical symbol|1270|
 |||⊛ infinity|1271|
 |recycle|:recycle:|recycling symbol|1272|
 |fleur_de_lis|:fleur_de_lis:|fleur-de-lis|1273|

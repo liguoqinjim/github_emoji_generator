@@ -145,7 +145,7 @@ func main() {
 				unicodeEmojisMedium = make([][]*UnicodeEmoji, 0)
 			}
 
-			log.Println("BigHead=", bigHead)
+			//log.Println("BigHead=", bigHead)
 		} else if trType == TR_TYPE_MEDIUM_HEAD {
 			h := s.Find("th > a").Text()
 			if h == "" {
@@ -161,7 +161,7 @@ func main() {
 				unicodeEmojis = make([]*UnicodeEmoji, 0)
 			}
 
-			log.Println("MediumHead=", mediumHead)
+			//log.Println("MediumHead=", mediumHead)
 		} else if trType == TR_TYPE_EMOJI {
 			id, err := strconv.Atoi(s.Find("td.rchars").Text())
 			if err != nil {
@@ -336,26 +336,28 @@ func getTrType(s *goquery.Selection) int {
 
 func (unicodeEmoji *UnicodeEmoji) MatchGithubEmoji() {
 	for _, githubEmoji := range githubEmojis {
-
-		for _, ucode := range unicodeEmoji.Codes {
-			has := false
-			for _, gcode := range githubEmoji.Codes {
-				if strings.ToLower(ucode) == strings.ToLower(gcode) {
-					has = true
+		if len(githubEmoji.Codes) != len(unicodeEmoji.Codes) {
+			continue
+		} else {
+			match := true
+			for n := range githubEmoji.Codes {
+				if strings.ToUpper(githubEmoji.Codes[n]) != strings.ToUpper(unicodeEmoji.Codes[n]) {
+					match = false
 					break
 				}
 			}
-			if !has {
+
+			if !match {
+				continue
+			} else {
+				if unicodeEmoji.Match {
+					log.Fatalf("data error")
+				}
+				unicodeEmoji.Match = true
+				githubEmoji.Match = true
+				unicodeEmoji.GithubEmoji = githubEmoji
 				break
 			}
-
-			if unicodeEmoji.Match {
-				log.Fatalf("data error")
-			}
-			unicodeEmoji.Match = true
-			githubEmoji.Match = true
-			unicodeEmoji.GithubEmoji = githubEmoji
-			return
 		}
 	}
 }

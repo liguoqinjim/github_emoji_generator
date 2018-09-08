@@ -12,5 +12,5 @@
 |mountain_cableway|:mountain_cableway:|mountain cableway|797|
 |aerial_tramway|:aerial_tramway:|aerial tramway|798|
 |artificial_satellite|:artificial_satellite:|satellite|799|
-|man_astronaut|:man_astronaut:|rocket|800|
+|rocket|:rocket:|rocket|800|
 |||flying saucer|801|

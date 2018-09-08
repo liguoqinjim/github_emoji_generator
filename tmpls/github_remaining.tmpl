@@ -1,6 +1,6 @@
-# Github Spec Emojis
+# Github Remaining Emojis
 
 |emoji_name|emoji|url|
 |---|---|---|
-{{ range . }}{{if .Match}}{{else}}|{{.Key}}|:{{.Key}}:|{{.Value}}|
-{{end}}{{ end }}
+{{ range . }}{{if .Match}}{{else}}{{if .Spec}}{{else}}|{{.Key}}|:{{.Key}}:|{{.Value}}|
+{{end}}{{end}}{{ end }}

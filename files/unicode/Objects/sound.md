@@ -32,7 +32,7 @@
 |crown|:crown:|crown|983|
 |womans_hat|:womans_hat:|woman’s hat|984|
 |tophat|:tophat:|top hat|985|
-|man_student|:man_student:|graduation cap|986|
+|mortar_board|:mortar_board:|graduation cap|986|
 |||billed cap|987|
 |rescue_worker_helmet|:rescue_worker_helmet:|rescue worker’s helmet|988|
 |prayer_beads|:prayer_beads:|prayer beads|989|
