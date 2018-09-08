@@ -1,0 +1,6 @@
+# Unicode_Emoji
+
+|github_emoji_name|github_emoji|short_name|unicode_index|
+|---|---|---|---|
+{{ range . }}{{if .Match}}{{with .GithubEmoji}}|{{.Key}}|:{{.Key}}:|{{end}}{{.ShortName}}|{{.Id}}|{{else}}|||{{.ShortName}}|{{.Id}}|{{end}}
+{{ end }}

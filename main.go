@@ -199,7 +199,11 @@ func main() {
 	dir, _ := os.Getwd() //当前的目录
 
 	//创建all_github_emojis
-	tmplPaths := []string{"tmpls/all_github_emoji.tmpl", "tmpls/unicode_emoji.tmpl"}
+	tmplPaths := []string{
+		"tmpls/all_github_emoji.tmpl",
+		"tmpls/unicode_group.tmpl",
+		"tmpls/unicode_all.tmpl",
+	}
 	t, err := template.New("all_github").ParseFiles(tmplPaths...)
 	if err != nil {
 		log.Fatalf("t1 New error:%v", err)
@@ -218,6 +222,7 @@ func main() {
 		f_all.Close()
 	}
 
+	//unicode分类
 	for n, bigHead := range bigHeads {
 		err := os.MkdirAll(dir+"/files/unicode/"+bigHead, os.ModePerm) //在当前目录下生成md目录
 		if err != nil {
@@ -232,7 +237,7 @@ func main() {
 				log.Fatalf("os.Create error:%v", err)
 			}
 
-			err = t.ExecuteTemplate(f, "unicode_emoji.tmpl", tmplData)
+			err = t.ExecuteTemplate(f, "unicode_group.tmpl", tmplData)
 			if err != nil {
 				log.Fatalf("t.Execute error:%v", err)
 			}
@@ -240,6 +245,19 @@ func main() {
 			f.Close()
 		}
 	}
+
+	//unicode所有
+	if f_uall, err := os.Create("files/unicode/README.md"); err != nil {
+		log.Fatalf("os.Create error:%v", err)
+	} else {
+		err = t.ExecuteTemplate(f_uall, "unicode_all.tmpl", unicodeEmojisSlice)
+		if err != nil {
+			log.Fatalf("t.ExecuteTemplate error:%v", err)
+		}
+
+		f_uall.Close()
+	}
+
 }
 
 //unicode分类用的
@@ -307,9 +325,4 @@ func (unicodeEmoji *UnicodeEmoji) MatchGithubEmoji() {
 			return
 		}
 	}
-}
-
-//在当前的目录的files文件夹下创建目录，path格式  dir1/dir2
-func NewDir(path string) {
-
 }
