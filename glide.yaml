@@ -1,0 +1,3 @@
+package: github.com/liguoqinjim/github_emoji_generator
+import:
+- package: github.com/PuerkitoBio/goquery
