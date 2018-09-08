@@ -198,9 +198,10 @@ func main() {
 
 	dir, _ := os.Getwd() //当前的目录
 
-	//创建all_github_emojis
 	tmplPaths := []string{
-		"tmpls/all_github_emoji.tmpl",
+		"tmpls/github_all.tmpl",
+		"tmpls/github_spec.tmpl",
+		"tmpls/github_remaining.tmpl",
 		"tmpls/unicode_group.tmpl",
 		"tmpls/unicode_all.tmpl",
 	}
@@ -208,18 +209,50 @@ func main() {
 	if err != nil {
 		log.Fatalf("t1 New error:%v", err)
 	}
-	if err := os.MkdirAll(dir+"/files/all_github_emojis", os.ModePerm); err != nil {
+
+	//创建all_github_emojis
+	if err := os.MkdirAll(dir+"/files/github_all", os.ModePerm); err != nil {
 		log.Fatalf("os.MkdirAll error:%v", err)
 	}
-	if f_all, err := os.Create("files/all_github_emojis/README.md"); err != nil {
+	if f_all, err := os.Create("files/github_all/README.md"); err != nil {
 		log.Fatalf("os.Create error:%v", err)
 	} else {
-		err := t.ExecuteTemplate(f_all, "all_github_emoji.tmpl", githubEmojis)
+		err := t.ExecuteTemplate(f_all, "github_all.tmpl", githubEmojis)
 		if err != nil {
 			log.Fatalf("t1.Execute error:%v", err)
 		}
 
 		f_all.Close()
+	}
+
+	//github_sepc_emoji
+	if err := os.MkdirAll(dir+"/files/github_spec", os.ModePerm); err != nil {
+		log.Fatalf("os.MkdirAll error:%v", err)
+	}
+	if f_spec, err := os.Create("files/github_spec/README.md"); err != nil {
+		log.Fatalf("os.Create f_spec error:%v", err)
+	} else {
+		err := t.ExecuteTemplate(f_spec, "github_spec.tmpl", githubEmojis)
+		if err != nil {
+			log.Fatalf("t1.Execute error:%v", err)
+		}
+
+		f_spec.Close()
+	}
+
+	//github remaining
+	if err := os.MkdirAll(dir+"/files/github_remaining", os.ModePerm); err != nil {
+		log.Fatalf("os.MkdirAll error:%v", err)
+	}
+	if f_spec, err := os.Create("files/github_remaining/README.md"); err != nil {
+		log.Fatalf("os.Create f_spec error:%v", err)
+	} else {
+		err := t.ExecuteTemplate(f_spec, "github_remaining.tmpl", githubEmojis)
+		if err != nil {
+			log.Fatalf("t1.Execute error:%v", err)
+		}
+
+		f_spec.Close()
 	}
 
 	//unicode分类

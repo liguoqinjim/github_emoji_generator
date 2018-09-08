@@ -1,0 +1,6 @@
+# Github Spec Emojis
+
+|emoji_name|emoji|url|
+|---|---|---|
+{{ range . }}{{if .Match}}{{else}}|{{.Key}}|:{{.Key}}:|{{.Value}}|
+{{end}}{{ end }}
