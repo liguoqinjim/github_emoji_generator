@@ -365,9 +365,7 @@ func codesEqual(githubEmoji *GithubEmoji, unicodeEmoji *UnicodeEmoji) bool {
 	}
 
 	emoji_unicode_same := true //Estonia，这样的emoji
-	if len(c2) == 1 {
-		emoji_unicode_same = false
-	} else {
+	if len(c1) > 2 {
 		for i := 0; i < len(c2)-1; i++ {
 			if c2[i] != c2[i+1] {
 				emoji_unicode_same = false
@@ -382,6 +380,10 @@ func codesEqual(githubEmoji *GithubEmoji, unicodeEmoji *UnicodeEmoji) bool {
 				return false
 			}
 		}
+		if githubEmoji.Key == "hong_kong" {
+			log.Println(githubEmoji)
+		}
+
 		return true
 	} else {
 		for _, v1 := range c1 {

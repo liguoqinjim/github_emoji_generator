@@ -13,3 +13,14 @@
 ## api
 1. https://api.github.com/emojis
 2. https://unicode.org/emoji/charts/full-emoji-list.html
+
+
+```
+{{ range . }}{{if .Match}}{{else}}{{if .Spec}}{{else}}|{{.Key}}|:{{.Key}}:|{{.Value}}|
+{{end}}{{end}}{{ end }}
+```
+
+```
+{{ range . }}{{if .Match}}{{else}}|{{.Key}}|:{{.Key}}:|{{.Value}}|
+{{end}}{{ end }}
+```
