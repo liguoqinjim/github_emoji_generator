@@ -1,5 +1,5 @@
 # github_emoji_generator
-生成(https://github.com/liguoqinjim/github_emoji)内容的工具
+生成 (https://github.com/liguoqinjim/github_emoji) 内容的工具
 
 创建三种
 1.按照github的api生成
@@ -9,3 +9,7 @@
 有几个问题
 1. github有的emoji的unicode和标准的unicode不一样，如github的asterisk，标准unicode有3位
 2. github有unicode相同的emoji，但是emoji的name不一样，如collision和boom
+
+## api
+1. https://api.github.com/emojis
+2. https://unicode.org/emoji/charts/full-emoji-list.html
