@@ -7,5 +7,5 @@
 |crossed_flags|:crossed_flags:|crossed flags|1379|
 |black_flag|:black_flag:|black flag|1380|
 |white_flag|:white_flag:|white flag|1381|
-|||rainbow flag|1382|
+|rainbow_flag|:rainbow_flag:|rainbow flag|1382|
 |||⊛ pirate flag|1383|

@@ -30,7 +30,7 @@
 |hole|:hole:|hole|139|
 |bomb|:bomb:|bomb|140|
 |speech_balloon|:speech_balloon:|speech balloon|141|
-|||eye in speech bubble|142|
+|eye_speech_bubble|:eye_speech_bubble:|eye in speech bubble|142|
 |||left speech bubble|143|
 |right_anger_bubble|:right_anger_bubble:|right anger bubble|144|
 |thought_balloon|:thought_balloon:|thought balloon|145|

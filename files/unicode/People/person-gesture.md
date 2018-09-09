@@ -16,7 +16,7 @@
 |||⊛ man: bald|202|
 |||man: beard|203|
 |woman|:woman:|woman|204|
-|||woman: blond hair|205|
+|blonde_woman|:blonde_woman:|woman: blond hair|205|
 |||⊛ woman: red hair|206|
 |||⊛ woman: curly hair|207|
 |||⊛ woman: white hair|208|

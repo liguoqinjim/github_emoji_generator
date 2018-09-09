@@ -172,7 +172,13 @@ func main() {
 			if !exists {
 				log.Fatalf("emoji name error:%v", err)
 			}
-			cs := strings.Split(c, "_")
+			cs := make([]string, 0)
+			cso := strings.Split(c, "_")
+			for _, v := range cso {
+				if v != "200d" && v != "fe0f" {
+					cs = append(cs, v)
+				}
+			}
 
 			sname := s.Find("td.name").Text()
 			if sname == "" {
@@ -379,9 +385,6 @@ func codesEqual(githubEmoji *GithubEmoji, unicodeEmoji *UnicodeEmoji) bool {
 			if strings.ToLower(c1[i]) != strings.ToLower(c2[i]) {
 				return false
 			}
-		}
-		if githubEmoji.Key == "hong_kong" {
-			log.Println(githubEmoji)
 		}
 
 		return true
