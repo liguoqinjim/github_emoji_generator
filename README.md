@@ -11,6 +11,7 @@
 2. github有unicode相同的emoji，但是emoji的name不一样，如collision和boom
 3. unicode里面`U+1F487 U+200D U+2642 U+FE0F`，但是github里面没有`U+200D`,`U+FE0F`
 4. github里面的man的emoji都加了2642，但是unicode里面是没有的
+5. github里面有一些emoji是一样的unicode，但是名字不一样。
 
 ## api
 1. https://api.github.com/emojis

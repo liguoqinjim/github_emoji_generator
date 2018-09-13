@@ -17,6 +17,7 @@ type GithubEmoji struct {
 	Key   string
 	Value string
 	Codes []string
+	Code  string //原始code
 
 	Match bool
 	Spec  bool //github专属emoji
@@ -83,7 +84,7 @@ func main() {
 				log.Fatalf("cs length error:%d,%s", len(cs), value)
 			}
 			codes := strings.Split(cs[2], "-")
-			githubEmojis = append(githubEmojis, &GithubEmoji{Key: key, Value: value, Codes: codes})
+			githubEmojis = append(githubEmojis, &GithubEmoji{Key: key, Value: value, Codes: codes, Code: cs[2]})
 		} else {
 			githubEmojis = append(githubEmojis, &GithubEmoji{Key: key, Value: value, Spec: true})
 		}
@@ -208,6 +209,8 @@ func main() {
 		"tmpls/github_all.tmpl",
 		"tmpls/github_spec.tmpl",
 		"tmpls/github_remaining.tmpl",
+		"tmpls/github_same.tmpl",
+		"tmpls/github_spec.tmpl",
 		"tmpls/unicode_group.tmpl",
 		"tmpls/unicode_all.tmpl",
 	}
@@ -259,6 +262,51 @@ func main() {
 		}
 
 		f_spec.Close()
+	}
+
+	//github same
+	githubEmojisSame := make([]*GithubEmoji, 0)
+	githubEmojisSameCode := make(map[string]int)
+	for _, v := range githubEmojis {
+		if v.Code == "" {
+			continue
+		}
+		if _, ok := githubEmojisSameCode[v.Code ]; ok {
+			continue
+		}
+
+		foundSame := false
+		esame := make([]*GithubEmoji, 0)
+		for _, v2 := range githubEmojis {
+			if v2 == v {
+				continue
+			}
+			if v.Code == v2.Code {
+				foundSame = true
+				esame = append(esame, v2)
+			}
+		}
+
+		if foundSame {
+			githubEmojisSame = append(githubEmojisSame, v)
+			githubEmojisSame = append(githubEmojisSame, esame...)
+			githubEmojisSameCode[v.Code] = 1
+		}
+	}
+	log.Println("githubEmojiSame length=", len(githubEmojisSame))
+
+	if err := os.Mkdir(dir+"/files/github_same", os.ModePerm); err != nil {
+		log.Fatalf("os.MkdirAll error:%v", err)
+	}
+	if f_same, err := os.Create("files/github_same/README.md"); err != nil {
+		log.Fatalf("os.Create f_same error:%v", err)
+	} else {
+		err := t.ExecuteTemplate(f_same, "github_same.tmpl", githubEmojisSame)
+		if err != nil {
+			log.Fatalf("t.ExecutezTemplate error:%v", err)
+		}
+
+		f_same.Close()
 	}
 
 	//unicode分类
