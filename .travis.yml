@@ -3,3 +3,5 @@ language: go
 before_script:
   - ./download.sh
   - ls
+
+script: go run main.go
