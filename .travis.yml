@@ -9,3 +9,5 @@ script: go run main.go
 
 after_script:
   - ls
+
+after_success:
