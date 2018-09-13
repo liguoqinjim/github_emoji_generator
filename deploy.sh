@@ -5,9 +5,6 @@
 
 echo "发布到github_emoji"
 
-echo "github token"
-echo $GITHUB_TOKEN
-
 #touch ~/.git-credentials
 #echo "https://136542728%40qq.com:wangxiu@git.coding.net" > ~/.git-credentials
 #cat ~/.git-credentials
@@ -15,6 +12,9 @@ echo $GITHUB_TOKEN
 #git config --global credential.helper store
 
 #git https://github.com/liguoqinjim/github_emoji.git file2
+git clone https://liguoqinjim:${GITHUB_TOKEN}@github.com/github_emoji.git ./file2
+cd file2
+ls
 #cd file2
 #git rm -rf .
 #cp -R ../file/* .
