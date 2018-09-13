@@ -3,5 +3,9 @@ language: go
 before_script:
   - ./download.sh
   - ls
+  - rm -rf files
 
 script: go run main.go
+
+after_script:
+  - ls
