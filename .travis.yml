@@ -11,3 +11,4 @@ after_script:
   - ls
 
 after_success:
+  - ./deploy.sh
