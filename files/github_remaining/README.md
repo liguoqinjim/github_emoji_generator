@@ -26,6 +26,7 @@
 |fist_oncoming|:fist_oncoming:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f44a.png?v8|
 |fist_raised|:fist_raised:|https://assets-cdn.github.com/images/icons/emoji/unicode/270a.png?v8|
 |flipper|:flipper:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f42c.png?v8|
+|frowning_woman|:frowning_woman:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f64d.png?v8|
 |haircut_woman|:haircut_woman:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f487.png?v8|
 |heavy_exclamation_mark|:heavy_exclamation_mark:|https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png?v8|
 |honeybee|:honeybee:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f41d.png?v8|
@@ -35,9 +36,11 @@
 |massage_woman|:massage_woman:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f486.png?v8|
 |middle_finger|:middle_finger:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f595.png?v8|
 |mountain_biking_man|:mountain_biking_man:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b5.png?v8|
+|ng_woman|:ng_woman:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v8|
 |no_good|:no_good:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v8|
 |no_good_man|:no_good_man:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f645-2642.png?v8|
 |no_good_woman|:no_good_woman:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v8|
+|ok_woman|:ok_woman:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f646.png?v8|
 |open_book|:open_book:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png?v8|
 |orange|:orange:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f34a.png?v8|
 |paw_prints|:paw_prints:|https://assets-cdn.github.com/images/icons/emoji/unicode/1f43e.png?v8|

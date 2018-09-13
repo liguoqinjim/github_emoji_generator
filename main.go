@@ -342,22 +342,18 @@ func getTrType(s *goquery.Selection) int {
 
 func (unicodeEmoji *UnicodeEmoji) MatchGithubEmoji() {
 	for _, githubEmoji := range githubEmojis {
-		if len(githubEmoji.Codes) != len(unicodeEmoji.Codes) {
+		match := codesEqual(githubEmoji, unicodeEmoji)
+
+		if !match {
 			continue
 		} else {
-			match := codesEqual(githubEmoji, unicodeEmoji)
-
-			if !match {
-				continue
-			} else {
-				if unicodeEmoji.Match {
-					log.Fatalf("data error")
-				}
-				unicodeEmoji.Match = true
-				githubEmoji.Match = true
-				unicodeEmoji.GithubEmoji = githubEmoji
-				break
+			if unicodeEmoji.Match {
+				log.Fatalf("data error")
 			}
+			unicodeEmoji.Match = true
+			githubEmoji.Match = true
+			unicodeEmoji.GithubEmoji = githubEmoji
+			break
 		}
 	}
 }
@@ -367,10 +363,24 @@ func codesEqual(githubEmoji *GithubEmoji, unicodeEmoji *UnicodeEmoji) bool {
 	c1 := githubEmoji.Codes
 	c2 := unicodeEmoji.Codes
 	if len(c1) != len(c2) {
+		if len(c1)-1 == len(c2) {
+			for i := 0; i < len(c1)-1; i++ {
+				if strings.ToLower(c1[i]) != strings.ToLower(c2[i]) {
+					return false
+				}
+			}
+
+			if strings.ToLower(c1[len(c1)-1]) == "2642" { //github里面的men_wrestling是有2642的，但是unicode没有
+				return true
+			} else {
+				return false
+			}
+		}
+
 		return false
 	}
 
-	emoji_unicode_same := true //Estonia，这样的emoji
+	emoji_unicode_same := true //Estonia，这样的emoji(U+1F1EA U+1F1EA)
 	if len(c1) > 2 {
 		for i := 0; i < len(c2)-1; i++ {
 			if c2[i] != c2[i+1] {

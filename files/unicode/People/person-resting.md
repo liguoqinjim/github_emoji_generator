@@ -30,18 +30,18 @@
 |mountain_bicyclist|:mountain_bicyclist:|person mountain biking|374|
 |||man mountain biking|375|
 |mountain_biking_woman|:mountain_biking_woman:|woman mountain biking|376|
-|||person cartwheeling|377|
+|man_cartwheeling|:man_cartwheeling:|person cartwheeling|377|
 |man_cartwheeling|:man_cartwheeling:|man cartwheeling|378|
 |woman_cartwheeling|:woman_cartwheeling:|woman cartwheeling|379|
-|||people wrestling|380|
+|men_wrestling|:men_wrestling:|people wrestling|380|
 |men_wrestling|:men_wrestling:|men wrestling|381|
 |women_wrestling|:women_wrestling:|women wrestling|382|
-|||person playing water polo|383|
+|man_playing_water_polo|:man_playing_water_polo:|person playing water polo|383|
 |man_playing_water_polo|:man_playing_water_polo:|man playing water polo|384|
 |woman_playing_water_polo|:woman_playing_water_polo:|woman playing water polo|385|
-|||person playing handball|386|
+|man_playing_handball|:man_playing_handball:|person playing handball|386|
 |man_playing_handball|:man_playing_handball:|man playing handball|387|
 |woman_playing_handball|:woman_playing_handball:|woman playing handball|388|
-|||person juggling|389|
+|man_juggling|:man_juggling:|person juggling|389|
 |man_juggling|:man_juggling:|man juggling|390|
 |woman_juggling|:woman_juggling:|woman juggling|391|

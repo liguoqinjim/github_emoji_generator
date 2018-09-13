@@ -214,16 +214,16 @@
 |||older person|210|
 |older_man|:older_man:|old man|211|
 |older_woman|:older_woman:|old woman|212|
-|frowning_woman|:frowning_woman:|person frowning|213|
+|frowning_man|:frowning_man:|person frowning|213|
 |frowning_man|:frowning_man:|man frowning|214|
 |||woman frowning|215|
 |person_with_pouting_face|:person_with_pouting_face:|person pouting|216|
 |pouting_man|:pouting_man:|man pouting|217|
 |||woman pouting|218|
-|ng_woman|:ng_woman:|person gesturing NO|219|
+|ng_man|:ng_man:|person gesturing NO|219|
 |ng_man|:ng_man:|man gesturing NO|220|
 |||woman gesturing NO|221|
-|ok_woman|:ok_woman:|person gesturing OK|222|
+|ok_man|:ok_man:|person gesturing OK|222|
 |ok_man|:ok_man:|man gesturing OK|223|
 |||woman gesturing OK|224|
 |information_desk_person|:information_desk_person:|person tipping hand|225|
@@ -235,10 +235,10 @@
 |bow|:bow:|person bowing|231|
 |||man bowing|232|
 |bowing_woman|:bowing_woman:|woman bowing|233|
-|||person facepalming|234|
+|man_facepalming|:man_facepalming:|person facepalming|234|
 |man_facepalming|:man_facepalming:|man facepalming|235|
 |woman_facepalming|:woman_facepalming:|woman facepalming|236|
-|||person shrugging|237|
+|man_shrugging|:man_shrugging:|person shrugging|237|
 |man_shrugging|:man_shrugging:|man shrugging|238|
 |woman_shrugging|:woman_shrugging:|woman shrugging|239|
 |man_health_worker|:man_health_worker:|man health worker|240|
@@ -378,19 +378,19 @@
 |mountain_bicyclist|:mountain_bicyclist:|person mountain biking|374|
 |||man mountain biking|375|
 |mountain_biking_woman|:mountain_biking_woman:|woman mountain biking|376|
-|||person cartwheeling|377|
+|man_cartwheeling|:man_cartwheeling:|person cartwheeling|377|
 |man_cartwheeling|:man_cartwheeling:|man cartwheeling|378|
 |woman_cartwheeling|:woman_cartwheeling:|woman cartwheeling|379|
-|||people wrestling|380|
+|men_wrestling|:men_wrestling:|people wrestling|380|
 |men_wrestling|:men_wrestling:|men wrestling|381|
 |women_wrestling|:women_wrestling:|women wrestling|382|
-|||person playing water polo|383|
+|man_playing_water_polo|:man_playing_water_polo:|person playing water polo|383|
 |man_playing_water_polo|:man_playing_water_polo:|man playing water polo|384|
 |woman_playing_water_polo|:woman_playing_water_polo:|woman playing water polo|385|
-|||person playing handball|386|
+|man_playing_handball|:man_playing_handball:|person playing handball|386|
 |man_playing_handball|:man_playing_handball:|man playing handball|387|
 |woman_playing_handball|:woman_playing_handball:|woman playing handball|388|
-|||person juggling|389|
+|man_juggling|:man_juggling:|person juggling|389|
 |man_juggling|:man_juggling:|man juggling|390|
 |woman_juggling|:woman_juggling:|woman juggling|391|
 |||person in lotus position|392|
