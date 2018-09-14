@@ -5,26 +5,18 @@
 
 echo "发布到github_emoji"
 
-#touch ~/.git-credentials
-#echo "https://136542728%40qq.com:wangxiu@git.coding.net" > ~/.git-credentials
-#cat ~/.git-credentials
-#git version
-#git config --global credential.helper store
-
-#git https://github.com/liguoqinjim/github_emoji.git file2
-#https://${GH_TOKEN}@github.com/<user_name>/<repo_name>.git
-#git clone https://liguoqinjim:${GITHUB_TOKEN}@github.com/github_emoji.git ./file2
 git clone https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git ./files2
 cd files2
 ls
+
 git rm -rf .
 cp -R ../files/* .
+cp ../deployFiles/README.md .
 ls
 echo "add"
 git add -f --ignore-errors --all
 echo "commit"
 git -c user.name='liguoqinjim' -c user.email='liguoqinjim23@gmail.com' commit -m init
-git "push"
 git push -f -q https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git master
 #
 #echo "生成liguoqinjim.com"
