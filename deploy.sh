@@ -17,15 +17,14 @@ echo "发布到github_emoji"
 git clone https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git ./file2
 cd file2
 ls
-#cd file2
-#git rm -rf .
-#cp -R ../file/* .
-#echo "add"
-#git add -f --ignore-errors --all
-#echo "commit"
-#git -c user.name='travis' -c user.email='travis' commit -m init
-#git "push"
-#git push -f -q https://git.coding.net/liguoqinjim/liguoqinjim.coding.me.git master
+git rm -rf .
+cp -R ../file/* .
+echo "add"
+git add -f --ignore-errors --all
+echo "commit"
+git -c user.name='travis' -c user.email='travis' commit -m init
+git "push"
+git push -f -q https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git master
 #
 #echo "生成liguoqinjim.com"
 #cd ..
