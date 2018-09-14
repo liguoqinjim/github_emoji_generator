@@ -16,8 +16,9 @@ ls
 echo "add"
 git add -f --ignore-errors --all
 echo "commit"
-git -c user.name='liguoqinjim' -c user.email='liguoqinjim23@gmail.com' commit -m init
+git -c user.name='liguoqinjim' -c user.email='liguoqinjim23@gmail.com' commit -m "deploy by travis"
 git push -f -q https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git master
+
 #
 #echo "生成liguoqinjim.com"
 #cd ..
