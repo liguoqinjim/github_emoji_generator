@@ -23,7 +23,7 @@ ls
 echo "add"
 git add -f --ignore-errors --all
 echo "commit"
-git -c user.name='travis' -c user.email='travis' commit -m init
+git -c user.name='liguoqinjim' -c user.email='liguoqinjim23@gmail.com' commit -m init
 git "push"
 git push -f -q https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git master
 #
