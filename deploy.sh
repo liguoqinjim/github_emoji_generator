@@ -13,7 +13,7 @@ echo "发布到github_emoji"
 
 #git https://github.com/liguoqinjim/github_emoji.git file2
 #https://${GH_TOKEN}@github.com/<user_name>/<repo_name>.git
-git clone https://liguoqinjim:${GITHUB_TOKEN}@github.com/github_emoji.git ./file2
+#git clone https://liguoqinjim:${GITHUB_TOKEN}@github.com/github_emoji.git ./file2
 git clone https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git ./file2
 cd file2
 ls
