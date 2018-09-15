@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # test，测试API的使用量
-curl -i https://api.github.com/users/whatever?client_id=${CLIENT_ID}&client_secret=${CLIENT_SECRET}
+# curl -i https://api.github.com/users/whatever?client_id=${CLIENT_ID}&client_secret=${CLIENT_SECRET}
+echo $CLIENT_ID
+echo $CLIENT_SECRET
 
 # github_api
 # https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git
