@@ -1,10 +1,12 @@
 #!/bin/bash
 
-# test
-curl -i https://api.github.com/emojis
+# test，测试API的使用量
+curl -i https://api.github.com/users/whatever?client_id=${CLIENT_ID}&client_secret=${CLIENT_SECRET}
 
 # github_api
-curl -o emojis.json https://api.github.com/emojis
+# https://${GITHUB_TOKEN}@github.com/liguoqinjim/github_emoji.git
+curl -o emojis.json https://api.github.com/users/whatever?client_id=${CLIENT_ID}&client_secret=${CLIENT_SECRET}
+
 cat emojis.json
 
 # unicode_emoji
