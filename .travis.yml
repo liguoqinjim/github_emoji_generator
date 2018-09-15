@@ -11,5 +11,5 @@ after_script:
   - ls
 
 after_success:
-  - chmod +x ./deploy.sh  #在windows下无法chmod，无奈为之
+  # - chmod +x ./deploy.sh  #在windows下无法chmod，无奈为之
   - ./deploy.sh
