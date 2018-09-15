@@ -1,4 +1,4 @@
-# github_emoji_generator
+# github_emoji_generator[![Build Status](https://travis-ci.org/liguoqinjim/github_emoji_generator.svg?branch=master)](https://travis-ci.org/liguoqinjim/github_emoji_generator)
 生成 (https://github.com/liguoqinjim/github_emoji) 内容的工具
 
 创建三种
