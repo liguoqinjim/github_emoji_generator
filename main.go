@@ -132,7 +132,7 @@ func main() {
 				log.Fatalf("bigHead error")
 			}
 			bigHead = h
-			log.Println("bigHead:", bigHead)
+			//log.Println("bigHead:", bigHead)
 			bigHeads = append(bigHeads, bigHead)
 
 			if !initBig {
@@ -156,7 +156,7 @@ func main() {
 				log.Fatalf("mediumHead error")
 			}
 			mediumHead = h
-			log.Println("mediumHead:", mediumHead)
+			//log.Println("mediumHead:", mediumHead)
 			mediumHeads = append(mediumHeads, mediumHead)
 
 			if !initMedium {
@@ -191,7 +191,7 @@ func main() {
 			}
 
 			ue := &UnicodeEmoji{Id: id, Codes: cs, ShortName: sname, BigHead: bigHead, MediumHead: mediumHead}
-			log.Println("emoji.id:", id)
+			//log.Println("emoji.id:", id)
 
 			unicodeEmojisSlice = append(unicodeEmojisSlice, ue)
 			unicodeEmojis = append(unicodeEmojis, ue)

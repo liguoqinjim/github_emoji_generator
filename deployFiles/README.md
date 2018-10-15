@@ -1,12 +1,13 @@
 # github_emoji
-github emoji
 
-
-|document|description|
+|directory|description|
 |---|---|
-|all|all emoji|
-|emoji_unicode|all emoji group by unicode|
+|github_all|all emojis shown in github api order|
+|github_remaining|all emoji group by unicode|
+|github_same||
+|github_spec||
+|unicode||
 
-## url
+## data_url
 1. [github emoji api](https://api.github.com/emojis)
 2. [full emoji list](https://unicode.org/emoji/charts/full-emoji-list.html)

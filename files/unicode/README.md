@@ -398,9 +398,9 @@
 |||woman in lotus position|394|
 |bath|:bath:|person taking bath|395|
 |sleeping_bed|:sleeping_bed:|person in bed|396|
-|couple|:couple:|man and woman holding hands|397|
-|two_men_holding_hands|:two_men_holding_hands:|two men holding hands|398|
-|two_women_holding_hands|:two_women_holding_hands:|two women holding hands|399|
+|two_women_holding_hands|:two_women_holding_hands:|two women holding hands|397|
+|couple|:couple:|man and woman holding hands|398|
+|two_men_holding_hands|:two_men_holding_hands:|two men holding hands|399|
 |couplekiss_man_woman|:couplekiss_man_woman:|kiss|400|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: woman, man|401|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: man, man|402|
@@ -443,834 +443,834 @@
 |||⊛ curly hair|439|
 |||⊛ white hair|440|
 |||⊛ bald|441|
-|||female sign|442|
-|||male sign|443|
-|monkey_face|:monkey_face:|monkey face|444|
-|monkey|:monkey:|monkey|445|
-|gorilla|:gorilla:|gorilla|446|
-|dog|:dog:|dog face|447|
-|dog2|:dog2:|dog|448|
-|poodle|:poodle:|poodle|449|
-|wolf|:wolf:|wolf face|450|
-|fox_face|:fox_face:|fox face|451|
-|||⊛ raccoon|452|
-|cat|:cat:|cat face|453|
-|cat2|:cat2:|cat|454|
-|lion|:lion:|lion face|455|
-|tiger|:tiger:|tiger face|456|
-|tiger2|:tiger2:|tiger|457|
-|leopard|:leopard:|leopard|458|
-|horse|:horse:|horse face|459|
-|racehorse|:racehorse:|horse|460|
-|unicorn|:unicorn:|unicorn face|461|
-|||zebra|462|
-|deer|:deer:|deer|463|
-|cow|:cow:|cow face|464|
-|ox|:ox:|ox|465|
-|water_buffalo|:water_buffalo:|water buffalo|466|
-|cow2|:cow2:|cow|467|
-|pig|:pig:|pig face|468|
-|pig2|:pig2:|pig|469|
-|boar|:boar:|boar|470|
-|pig_nose|:pig_nose:|pig nose|471|
-|ram|:ram:|ram|472|
-|sheep|:sheep:|ewe|473|
-|goat|:goat:|goat|474|
-|dromedary_camel|:dromedary_camel:|camel|475|
-|camel|:camel:|two-hump camel|476|
-|||⊛ llama|477|
-|||giraffe|478|
-|elephant|:elephant:|elephant|479|
-|rhinoceros|:rhinoceros:|rhinoceros|480|
-|||⊛ hippopotamus|481|
-|mouse|:mouse:|mouse face|482|
-|mouse2|:mouse2:|mouse|483|
-|rat|:rat:|rat|484|
-|hamster|:hamster:|hamster face|485|
-|rabbit|:rabbit:|rabbit face|486|
-|rabbit2|:rabbit2:|rabbit|487|
-|chipmunk|:chipmunk:|chipmunk|488|
-|||hedgehog|489|
-|bat|:bat:|bat|490|
-|bear|:bear:|bear face|491|
-|koala|:koala:|koala|492|
-|panda_face|:panda_face:|panda face|493|
-|||⊛ kangaroo|494|
-|||⊛ badger|495|
-|feet|:feet:|paw prints|496|
-|turkey|:turkey:|turkey|497|
-|chicken|:chicken:|chicken|498|
-|rooster|:rooster:|rooster|499|
-|hatching_chick|:hatching_chick:|hatching chick|500|
-|baby_chick|:baby_chick:|baby chick|501|
-|hatched_chick|:hatched_chick:|front-facing baby chick|502|
-|bird|:bird:|bird|503|
-|penguin|:penguin:|penguin|504|
-|dove|:dove:|dove|505|
-|eagle|:eagle:|eagle|506|
-|duck|:duck:|duck|507|
-|||⊛ swan|508|
-|owl|:owl:|owl|509|
-|||⊛ peacock|510|
-|||⊛ parrot|511|
-|frog|:frog:|frog face|512|
-|crocodile|:crocodile:|crocodile|513|
-|turtle|:turtle:|turtle|514|
-|lizard|:lizard:|lizard|515|
-|snake|:snake:|snake|516|
-|dragon_face|:dragon_face:|dragon face|517|
-|dragon|:dragon:|dragon|518|
-|||sauropod|519|
-|||T-Rex|520|
-|whale|:whale:|spouting whale|521|
-|whale2|:whale2:|whale|522|
-|dolphin|:dolphin:|dolphin|523|
-|fish|:fish:|fish|524|
-|tropical_fish|:tropical_fish:|tropical fish|525|
-|blowfish|:blowfish:|blowfish|526|
-|shark|:shark:|shark|527|
-|octopus|:octopus:|octopus|528|
-|shell|:shell:|spiral shell|529|
-|snail|:snail:|snail|530|
-|butterfly|:butterfly:|butterfly|531|
-|bug|:bug:|bug|532|
-|ant|:ant:|ant|533|
-|bee|:bee:|honeybee|534|
-|beetle|:beetle:|lady beetle|535|
-|||cricket|536|
-|spider|:spider:|spider|537|
-|spider_web|:spider_web:|spider web|538|
-|scorpion|:scorpion:|scorpion|539|
-|||⊛ mosquito|540|
-|||⊛ microbe|541|
-|bouquet|:bouquet:|bouquet|542|
-|cherry_blossom|:cherry_blossom:|cherry blossom|543|
-|white_flower|:white_flower:|white flower|544|
-|rosette|:rosette:|rosette|545|
-|rose|:rose:|rose|546|
-|wilted_flower|:wilted_flower:|wilted flower|547|
-|hibiscus|:hibiscus:|hibiscus|548|
-|sunflower|:sunflower:|sunflower|549|
-|blossom|:blossom:|blossom|550|
-|tulip|:tulip:|tulip|551|
-|seedling|:seedling:|seedling|552|
-|evergreen_tree|:evergreen_tree:|evergreen tree|553|
-|deciduous_tree|:deciduous_tree:|deciduous tree|554|
-|palm_tree|:palm_tree:|palm tree|555|
-|cactus|:cactus:|cactus|556|
-|ear_of_rice|:ear_of_rice:|sheaf of rice|557|
-|herb|:herb:|herb|558|
-|shamrock|:shamrock:|shamrock|559|
-|four_leaf_clover|:four_leaf_clover:|four leaf clover|560|
-|maple_leaf|:maple_leaf:|maple leaf|561|
-|fallen_leaf|:fallen_leaf:|fallen leaf|562|
-|leaves|:leaves:|leaf fluttering in wind|563|
-|grapes|:grapes:|grapes|564|
-|melon|:melon:|melon|565|
-|watermelon|:watermelon:|watermelon|566|
-|mandarin|:mandarin:|tangerine|567|
-|lemon|:lemon:|lemon|568|
-|banana|:banana:|banana|569|
-|pineapple|:pineapple:|pineapple|570|
-|||⊛ mango|571|
-|apple|:apple:|red apple|572|
-|green_apple|:green_apple:|green apple|573|
-|pear|:pear:|pear|574|
-|peach|:peach:|peach|575|
-|cherries|:cherries:|cherries|576|
-|strawberry|:strawberry:|strawberry|577|
-|kiwi_fruit|:kiwi_fruit:|kiwi fruit|578|
-|tomato|:tomato:|tomato|579|
-|||coconut|580|
-|avocado|:avocado:|avocado|581|
-|eggplant|:eggplant:|eggplant|582|
-|potato|:potato:|potato|583|
-|carrot|:carrot:|carrot|584|
-|corn|:corn:|ear of corn|585|
-|hot_pepper|:hot_pepper:|hot pepper|586|
-|cucumber|:cucumber:|cucumber|587|
-|||⊛ leafy green|588|
-|||broccoli|589|
-|mushroom|:mushroom:|mushroom|590|
-|peanuts|:peanuts:|peanuts|591|
-|chestnut|:chestnut:|chestnut|592|
-|bread|:bread:|bread|593|
-|croissant|:croissant:|croissant|594|
-|baguette_bread|:baguette_bread:|baguette bread|595|
-|||pretzel|596|
-|||⊛ bagel|597|
-|pancakes|:pancakes:|pancakes|598|
-|cheese|:cheese:|cheese wedge|599|
-|meat_on_bone|:meat_on_bone:|meat on bone|600|
-|poultry_leg|:poultry_leg:|poultry leg|601|
-|||cut of meat|602|
-|bacon|:bacon:|bacon|603|
-|hamburger|:hamburger:|hamburger|604|
-|fries|:fries:|french fries|605|
-|pizza|:pizza:|pizza|606|
-|hotdog|:hotdog:|hot dog|607|
-|||sandwich|608|
-|taco|:taco:|taco|609|
-|burrito|:burrito:|burrito|610|
-|stuffed_flatbread|:stuffed_flatbread:|stuffed flatbread|611|
-|egg|:egg:|egg|612|
-|fried_egg|:fried_egg:|cooking|613|
-|shallow_pan_of_food|:shallow_pan_of_food:|shallow pan of food|614|
-|stew|:stew:|pot of food|615|
-|||bowl with spoon|616|
-|green_salad|:green_salad:|green salad|617|
-|popcorn|:popcorn:|popcorn|618|
-|||⊛ salt|619|
-|||canned food|620|
-|bento|:bento:|bento box|621|
-|rice_cracker|:rice_cracker:|rice cracker|622|
-|rice_ball|:rice_ball:|rice ball|623|
-|rice|:rice:|cooked rice|624|
-|curry|:curry:|curry rice|625|
-|ramen|:ramen:|steaming bowl|626|
-|spaghetti|:spaghetti:|spaghetti|627|
-|sweet_potato|:sweet_potato:|roasted sweet potato|628|
-|oden|:oden:|oden|629|
-|sushi|:sushi:|sushi|630|
-|fried_shrimp|:fried_shrimp:|fried shrimp|631|
-|fish_cake|:fish_cake:|fish cake with swirl|632|
-|||⊛ moon cake|633|
-|dango|:dango:|dango|634|
-|||dumpling|635|
-|||fortune cookie|636|
-|||takeout box|637|
-|crab|:crab:|crab|638|
-|||⊛ lobster|639|
-|shrimp|:shrimp:|shrimp|640|
-|squid|:squid:|squid|641|
-|icecream|:icecream:|soft ice cream|642|
-|shaved_ice|:shaved_ice:|shaved ice|643|
-|ice_cream|:ice_cream:|ice cream|644|
-|doughnut|:doughnut:|doughnut|645|
-|cookie|:cookie:|cookie|646|
-|birthday|:birthday:|birthday cake|647|
-|cake|:cake:|shortcake|648|
-|||⊛ cupcake|649|
-|||pie|650|
-|chocolate_bar|:chocolate_bar:|chocolate bar|651|
-|candy|:candy:|candy|652|
-|lollipop|:lollipop:|lollipop|653|
-|custard|:custard:|custard|654|
-|honey_pot|:honey_pot:|honey pot|655|
-|baby_bottle|:baby_bottle:|baby bottle|656|
-|milk_glass|:milk_glass:|glass of milk|657|
-|coffee|:coffee:|hot beverage|658|
-|tea|:tea:|teacup without handle|659|
-|sake|:sake:|sake|660|
-|champagne|:champagne:|bottle with popping cork|661|
-|wine_glass|:wine_glass:|wine glass|662|
-|cocktail|:cocktail:|cocktail glass|663|
-|tropical_drink|:tropical_drink:|tropical drink|664|
-|beer|:beer:|beer mug|665|
-|beers|:beers:|clinking beer mugs|666|
-|clinking_glasses|:clinking_glasses:|clinking glasses|667|
-|tumbler_glass|:tumbler_glass:|tumbler glass|668|
-|||cup with straw|669|
-|||chopsticks|670|
-|plate_with_cutlery|:plate_with_cutlery:|fork and knife with plate|671|
-|fork_and_knife|:fork_and_knife:|fork and knife|672|
-|spoon|:spoon:|spoon|673|
-|hocho|:hocho:|kitchen knife|674|
-|amphora|:amphora:|amphora|675|
-|earth_africa|:earth_africa:|globe showing Europe-Africa|676|
-|earth_americas|:earth_americas:|globe showing Americas|677|
-|earth_asia|:earth_asia:|globe showing Asia-Australia|678|
-|globe_with_meridians|:globe_with_meridians:|globe with meridians|679|
-|world_map|:world_map:|world map|680|
-|japan|:japan:|map of Japan|681|
-|||⊛ compass|682|
-|mountain_snow|:mountain_snow:|snow-capped mountain|683|
-|mountain|:mountain:|mountain|684|
-|volcano|:volcano:|volcano|685|
-|mount_fuji|:mount_fuji:|mount fuji|686|
-|camping|:camping:|camping|687|
-|beach_umbrella|:beach_umbrella:|beach with umbrella|688|
-|desert|:desert:|desert|689|
-|desert_island|:desert_island:|desert island|690|
-|national_park|:national_park:|national park|691|
-|stadium|:stadium:|stadium|692|
-|classical_building|:classical_building:|classical building|693|
-|building_construction|:building_construction:|building construction|694|
-|||⊛ brick|695|
-|houses|:houses:|houses|696|
-|derelict_house|:derelict_house:|derelict house|697|
-|house|:house:|house|698|
-|house_with_garden|:house_with_garden:|house with garden|699|
-|office|:office:|office building|700|
-|post_office|:post_office:|Japanese post office|701|
-|european_post_office|:european_post_office:|post office|702|
-|hospital|:hospital:|hospital|703|
-|bank|:bank:|bank|704|
-|hotel|:hotel:|hotel|705|
-|love_hotel|:love_hotel:|love hotel|706|
-|convenience_store|:convenience_store:|convenience store|707|
-|school|:school:|school|708|
-|department_store|:department_store:|department store|709|
-|factory|:factory:|factory|710|
-|japanese_castle|:japanese_castle:|Japanese castle|711|
-|european_castle|:european_castle:|castle|712|
-|wedding|:wedding:|wedding|713|
-|tokyo_tower|:tokyo_tower:|Tokyo tower|714|
-|statue_of_liberty|:statue_of_liberty:|Statue of Liberty|715|
-|church|:church:|church|716|
-|mosque|:mosque:|mosque|717|
-|synagogue|:synagogue:|synagogue|718|
-|shinto_shrine|:shinto_shrine:|shinto shrine|719|
-|kaaba|:kaaba:|kaaba|720|
-|fountain|:fountain:|fountain|721|
-|tent|:tent:|tent|722|
-|foggy|:foggy:|foggy|723|
-|night_with_stars|:night_with_stars:|night with stars|724|
-|cityscape|:cityscape:|cityscape|725|
-|sunrise_over_mountains|:sunrise_over_mountains:|sunrise over mountains|726|
-|sunrise|:sunrise:|sunrise|727|
-|city_sunset|:city_sunset:|cityscape at dusk|728|
-|city_sunrise|:city_sunrise:|sunset|729|
-|bridge_at_night|:bridge_at_night:|bridge at night|730|
-|hotsprings|:hotsprings:|hot springs|731|
-|milky_way|:milky_way:|milky way|732|
-|carousel_horse|:carousel_horse:|carousel horse|733|
-|ferris_wheel|:ferris_wheel:|ferris wheel|734|
-|roller_coaster|:roller_coaster:|roller coaster|735|
-|barber|:barber:|barber pole|736|
-|circus_tent|:circus_tent:|circus tent|737|
-|steam_locomotive|:steam_locomotive:|locomotive|738|
-|railway_car|:railway_car:|railway car|739|
-|bullettrain_side|:bullettrain_side:|high-speed train|740|
-|bullettrain_front|:bullettrain_front:|bullet train|741|
-|train2|:train2:|train|742|
-|metro|:metro:|metro|743|
-|light_rail|:light_rail:|light rail|744|
-|station|:station:|station|745|
-|tram|:tram:|tram|746|
-|monorail|:monorail:|monorail|747|
-|mountain_railway|:mountain_railway:|mountain railway|748|
-|train|:train:|tram car|749|
-|bus|:bus:|bus|750|
-|oncoming_bus|:oncoming_bus:|oncoming bus|751|
-|trolleybus|:trolleybus:|trolleybus|752|
-|minibus|:minibus:|minibus|753|
-|ambulance|:ambulance:|ambulance|754|
-|fire_engine|:fire_engine:|fire engine|755|
-|police_car|:police_car:|police car|756|
-|oncoming_police_car|:oncoming_police_car:|oncoming police car|757|
-|taxi|:taxi:|taxi|758|
-|oncoming_taxi|:oncoming_taxi:|oncoming taxi|759|
-|car|:car:|automobile|760|
-|oncoming_automobile|:oncoming_automobile:|oncoming automobile|761|
-|blue_car|:blue_car:|sport utility vehicle|762|
-|truck|:truck:|delivery truck|763|
-|articulated_lorry|:articulated_lorry:|articulated lorry|764|
-|tractor|:tractor:|tractor|765|
-|racing_car|:racing_car:|racing car|766|
-|motorcycle|:motorcycle:|motorcycle|767|
-|motor_scooter|:motor_scooter:|motor scooter|768|
-|bike|:bike:|bicycle|769|
-|kick_scooter|:kick_scooter:|kick scooter|770|
-|||⊛ skateboard|771|
-|busstop|:busstop:|bus stop|772|
-|motorway|:motorway:|motorway|773|
-|railway_track|:railway_track:|railway track|774|
-|oil_drum|:oil_drum:|oil drum|775|
-|fuelpump|:fuelpump:|fuel pump|776|
-|rotating_light|:rotating_light:|police car light|777|
-|traffic_light|:traffic_light:|horizontal traffic light|778|
-|vertical_traffic_light|:vertical_traffic_light:|vertical traffic light|779|
-|stop_sign|:stop_sign:|stop sign|780|
-|construction|:construction:|construction|781|
-|anchor|:anchor:|anchor|782|
-|boat|:boat:|sailboat|783|
-|canoe|:canoe:|canoe|784|
-|speedboat|:speedboat:|speedboat|785|
-|passenger_ship|:passenger_ship:|passenger ship|786|
-|ferry|:ferry:|ferry|787|
-|motor_boat|:motor_boat:|motor boat|788|
-|ship|:ship:|ship|789|
-|airplane|:airplane:|airplane|790|
-|small_airplane|:small_airplane:|small airplane|791|
-|flight_departure|:flight_departure:|airplane departure|792|
-|flight_arrival|:flight_arrival:|airplane arrival|793|
-|seat|:seat:|seat|794|
-|helicopter|:helicopter:|helicopter|795|
-|suspension_railway|:suspension_railway:|suspension railway|796|
-|mountain_cableway|:mountain_cableway:|mountain cableway|797|
-|aerial_tramway|:aerial_tramway:|aerial tramway|798|
-|artificial_satellite|:artificial_satellite:|satellite|799|
-|rocket|:rocket:|rocket|800|
-|||flying saucer|801|
-|bellhop_bell|:bellhop_bell:|bellhop bell|802|
-|||⊛ luggage|803|
-|hourglass|:hourglass:|hourglass done|804|
-|hourglass_flowing_sand|:hourglass_flowing_sand:|hourglass not done|805|
-|watch|:watch:|watch|806|
-|alarm_clock|:alarm_clock:|alarm clock|807|
-|stopwatch|:stopwatch:|stopwatch|808|
-|timer_clock|:timer_clock:|timer clock|809|
-|mantelpiece_clock|:mantelpiece_clock:|mantelpiece clock|810|
-|clock12|:clock12:|twelve o’clock|811|
-|clock1230|:clock1230:|twelve-thirty|812|
-|clock1|:clock1:|one o’clock|813|
-|clock130|:clock130:|one-thirty|814|
-|clock2|:clock2:|two o’clock|815|
-|clock230|:clock230:|two-thirty|816|
-|clock3|:clock3:|three o’clock|817|
-|clock330|:clock330:|three-thirty|818|
-|clock4|:clock4:|four o’clock|819|
-|clock430|:clock430:|four-thirty|820|
-|clock5|:clock5:|five o’clock|821|
-|clock530|:clock530:|five-thirty|822|
-|clock6|:clock6:|six o’clock|823|
-|clock630|:clock630:|six-thirty|824|
-|clock7|:clock7:|seven o’clock|825|
-|clock730|:clock730:|seven-thirty|826|
-|clock8|:clock8:|eight o’clock|827|
-|clock830|:clock830:|eight-thirty|828|
-|clock9|:clock9:|nine o’clock|829|
-|clock930|:clock930:|nine-thirty|830|
-|clock10|:clock10:|ten o’clock|831|
-|clock1030|:clock1030:|ten-thirty|832|
-|clock11|:clock11:|eleven o’clock|833|
-|clock1130|:clock1130:|eleven-thirty|834|
-|new_moon|:new_moon:|new moon|835|
-|waxing_crescent_moon|:waxing_crescent_moon:|waxing crescent moon|836|
-|first_quarter_moon|:first_quarter_moon:|first quarter moon|837|
-|moon|:moon:|waxing gibbous moon|838|
-|full_moon|:full_moon:|full moon|839|
-|waning_gibbous_moon|:waning_gibbous_moon:|waning gibbous moon|840|
-|last_quarter_moon|:last_quarter_moon:|last quarter moon|841|
-|waning_crescent_moon|:waning_crescent_moon:|waning crescent moon|842|
-|crescent_moon|:crescent_moon:|crescent moon|843|
-|new_moon_with_face|:new_moon_with_face:|new moon face|844|
-|first_quarter_moon_with_face|:first_quarter_moon_with_face:|first quarter moon face|845|
-|last_quarter_moon_with_face|:last_quarter_moon_with_face:|last quarter moon face|846|
-|thermometer|:thermometer:|thermometer|847|
-|sunny|:sunny:|sun|848|
-|full_moon_with_face|:full_moon_with_face:|full moon face|849|
-|sun_with_face|:sun_with_face:|sun with face|850|
-|star|:star:|star|851|
-|star2|:star2:|glowing star|852|
-|stars|:stars:|shooting star|853|
-|cloud|:cloud:|cloud|854|
-|partly_sunny|:partly_sunny:|sun behind cloud|855|
-|cloud_with_lightning_and_rain|:cloud_with_lightning_and_rain:|cloud with lightning and rain|856|
-|sun_behind_small_cloud|:sun_behind_small_cloud:|sun behind small cloud|857|
-|sun_behind_large_cloud|:sun_behind_large_cloud:|sun behind large cloud|858|
-|sun_behind_rain_cloud|:sun_behind_rain_cloud:|sun behind rain cloud|859|
-|cloud_with_rain|:cloud_with_rain:|cloud with rain|860|
-|cloud_with_snow|:cloud_with_snow:|cloud with snow|861|
-|cloud_with_lightning|:cloud_with_lightning:|cloud with lightning|862|
-|tornado|:tornado:|tornado|863|
-|fog|:fog:|fog|864|
-|wind_face|:wind_face:|wind face|865|
-|cyclone|:cyclone:|cyclone|866|
-|rainbow|:rainbow:|rainbow|867|
-|closed_umbrella|:closed_umbrella:|closed umbrella|868|
-|open_umbrella|:open_umbrella:|umbrella|869|
-|umbrella|:umbrella:|umbrella with rain drops|870|
-|parasol_on_ground|:parasol_on_ground:|umbrella on ground|871|
-|zap|:zap:|high voltage|872|
-|snowflake|:snowflake:|snowflake|873|
-|snowman_with_snow|:snowman_with_snow:|snowman|874|
-|snowman|:snowman:|snowman without snow|875|
-|comet|:comet:|comet|876|
-|fire|:fire:|fire|877|
-|droplet|:droplet:|droplet|878|
-|ocean|:ocean:|water wave|879|
-|jack_o_lantern|:jack_o_lantern:|jack-o-lantern|880|
-|christmas_tree|:christmas_tree:|Christmas tree|881|
-|fireworks|:fireworks:|fireworks|882|
-|sparkler|:sparkler:|sparkler|883|
-|||⊛ firecracker|884|
-|sparkles|:sparkles:|sparkles|885|
-|balloon|:balloon:|balloon|886|
-|tada|:tada:|party popper|887|
-|confetti_ball|:confetti_ball:|confetti ball|888|
-|tanabata_tree|:tanabata_tree:|tanabata tree|889|
-|bamboo|:bamboo:|pine decoration|890|
-|dolls|:dolls:|Japanese dolls|891|
-|flags|:flags:|carp streamer|892|
-|wind_chime|:wind_chime:|wind chime|893|
-|rice_scene|:rice_scene:|moon viewing ceremony|894|
-|||⊛ red envelope|895|
-|ribbon|:ribbon:|ribbon|896|
-|gift|:gift:|wrapped gift|897|
-|reminder_ribbon|:reminder_ribbon:|reminder ribbon|898|
-|tickets|:tickets:|admission tickets|899|
-|ticket|:ticket:|ticket|900|
-|medal_military|:medal_military:|military medal|901|
-|trophy|:trophy:|trophy|902|
-|medal_sports|:medal_sports:|sports medal|903|
-|1st_place_medal|:1st_place_medal:|1st place medal|904|
-|2nd_place_medal|:2nd_place_medal:|2nd place medal|905|
-|3rd_place_medal|:3rd_place_medal:|3rd place medal|906|
-|soccer|:soccer:|soccer ball|907|
-|baseball|:baseball:|baseball|908|
-|||⊛ softball|909|
-|basketball|:basketball:|basketball|910|
-|volleyball|:volleyball:|volleyball|911|
-|football|:football:|american football|912|
-|rugby_football|:rugby_football:|rugby football|913|
-|tennis|:tennis:|tennis|914|
-|||⊛ flying disc|915|
-|bowling|:bowling:|bowling|916|
-|cricket|:cricket:|cricket game|917|
-|field_hockey|:field_hockey:|field hockey|918|
-|ice_hockey|:ice_hockey:|ice hockey|919|
-|||⊛ lacrosse|920|
-|ping_pong|:ping_pong:|ping pong|921|
-|badminton|:badminton:|badminton|922|
-|boxing_glove|:boxing_glove:|boxing glove|923|
-|martial_arts_uniform|:martial_arts_uniform:|martial arts uniform|924|
-|goal_net|:goal_net:|goal net|925|
-|golf|:golf:|flag in hole|926|
-|ice_skate|:ice_skate:|ice skate|927|
-|fishing_pole_and_fish|:fishing_pole_and_fish:|fishing pole|928|
-|running_shirt_with_sash|:running_shirt_with_sash:|running shirt|929|
-|ski|:ski:|skis|930|
-|||sled|931|
-|||curling stone|932|
-|dart|:dart:|direct hit|933|
-|8ball|:8ball:|pool 8 ball|934|
-|crystal_ball|:crystal_ball:|crystal ball|935|
-|||⊛ nazar amulet|936|
-|video_game|:video_game:|video game|937|
-|joystick|:joystick:|joystick|938|
-|slot_machine|:slot_machine:|slot machine|939|
-|game_die|:game_die:|game die|940|
-|||⊛ jigsaw|941|
-|||⊛ teddy bear|942|
-|spades|:spades:|spade suit|943|
-|hearts|:hearts:|heart suit|944|
-|diamonds|:diamonds:|diamond suit|945|
-|clubs|:clubs:|club suit|946|
-|||⊛ chess pawn|947|
-|black_joker|:black_joker:|joker|948|
-|mahjong|:mahjong:|mahjong red dragon|949|
-|flower_playing_cards|:flower_playing_cards:|flower playing cards|950|
-|performing_arts|:performing_arts:|performing arts|951|
-|framed_picture|:framed_picture:|framed picture|952|
-|art|:art:|artist palette|953|
-|||⊛ thread|954|
-|||⊛ yarn|955|
-|eyeglasses|:eyeglasses:|glasses|956|
-|dark_sunglasses|:dark_sunglasses:|sunglasses|957|
-|||⊛ goggles|958|
-|||⊛ lab coat|959|
-|necktie|:necktie:|necktie|960|
-|shirt|:shirt:|t-shirt|961|
-|jeans|:jeans:|jeans|962|
-|||scarf|963|
-|||gloves|964|
-|||coat|965|
-|||socks|966|
-|dress|:dress:|dress|967|
-|kimono|:kimono:|kimono|968|
-|bikini|:bikini:|bikini|969|
-|womans_clothes|:womans_clothes:|woman’s clothes|970|
-|purse|:purse:|purse|971|
-|handbag|:handbag:|handbag|972|
-|pouch|:pouch:|clutch bag|973|
-|shopping|:shopping:|shopping bags|974|
-|school_satchel|:school_satchel:|backpack|975|
-|mans_shoe|:mans_shoe:|man’s shoe|976|
-|athletic_shoe|:athletic_shoe:|running shoe|977|
-|||⊛ hiking boot|978|
-|||⊛ flat shoe|979|
-|high_heel|:high_heel:|high-heeled shoe|980|
-|sandal|:sandal:|woman’s sandal|981|
-|boot|:boot:|woman’s boot|982|
-|crown|:crown:|crown|983|
-|womans_hat|:womans_hat:|woman’s hat|984|
-|tophat|:tophat:|top hat|985|
-|mortar_board|:mortar_board:|graduation cap|986|
-|||billed cap|987|
-|rescue_worker_helmet|:rescue_worker_helmet:|rescue worker’s helmet|988|
-|prayer_beads|:prayer_beads:|prayer beads|989|
-|lipstick|:lipstick:|lipstick|990|
-|ring|:ring:|ring|991|
-|gem|:gem:|gem stone|992|
-|mute|:mute:|muted speaker|993|
-|speaker|:speaker:|speaker low volume|994|
-|sound|:sound:|speaker medium volume|995|
-|loud_sound|:loud_sound:|speaker high volume|996|
-|loudspeaker|:loudspeaker:|loudspeaker|997|
-|mega|:mega:|megaphone|998|
-|postal_horn|:postal_horn:|postal horn|999|
-|bell|:bell:|bell|1000|
-|no_bell|:no_bell:|bell with slash|1001|
-|musical_score|:musical_score:|musical score|1002|
-|musical_note|:musical_note:|musical note|1003|
-|notes|:notes:|musical notes|1004|
-|studio_microphone|:studio_microphone:|studio microphone|1005|
-|level_slider|:level_slider:|level slider|1006|
-|control_knobs|:control_knobs:|control knobs|1007|
-|microphone|:microphone:|microphone|1008|
-|headphones|:headphones:|headphone|1009|
-|radio|:radio:|radio|1010|
-|saxophone|:saxophone:|saxophone|1011|
-|guitar|:guitar:|guitar|1012|
-|musical_keyboard|:musical_keyboard:|musical keyboard|1013|
-|trumpet|:trumpet:|trumpet|1014|
-|violin|:violin:|violin|1015|
-|drum|:drum:|drum|1016|
-|iphone|:iphone:|mobile phone|1017|
-|calling|:calling:|mobile phone with arrow|1018|
-|phone|:phone:|telephone|1019|
-|telephone_receiver|:telephone_receiver:|telephone receiver|1020|
-|pager|:pager:|pager|1021|
-|fax|:fax:|fax machine|1022|
-|battery|:battery:|battery|1023|
-|electric_plug|:electric_plug:|electric plug|1024|
-|computer|:computer:|laptop computer|1025|
-|desktop_computer|:desktop_computer:|desktop computer|1026|
-|printer|:printer:|printer|1027|
-|keyboard|:keyboard:|keyboard|1028|
-|computer_mouse|:computer_mouse:|computer mouse|1029|
-|trackball|:trackball:|trackball|1030|
-|minidisc|:minidisc:|computer disk|1031|
-|floppy_disk|:floppy_disk:|floppy disk|1032|
-|cd|:cd:|optical disk|1033|
-|dvd|:dvd:|dvd|1034|
-|||⊛ abacus|1035|
-|movie_camera|:movie_camera:|movie camera|1036|
-|film_strip|:film_strip:|film frames|1037|
-|film_projector|:film_projector:|film projector|1038|
-|clapper|:clapper:|clapper board|1039|
-|tv|:tv:|television|1040|
-|camera|:camera:|camera|1041|
-|camera_flash|:camera_flash:|camera with flash|1042|
-|video_camera|:video_camera:|video camera|1043|
-|vhs|:vhs:|videocassette|1044|
-|mag|:mag:|magnifying glass tilted left|1045|
-|mag_right|:mag_right:|magnifying glass tilted right|1046|
-|candle|:candle:|candle|1047|
-|bulb|:bulb:|light bulb|1048|
-|flashlight|:flashlight:|flashlight|1049|
-|izakaya_lantern|:izakaya_lantern:|red paper lantern|1050|
-|notebook_with_decorative_cover|:notebook_with_decorative_cover:|notebook with decorative cover|1051|
-|closed_book|:closed_book:|closed book|1052|
-|book|:book:|open book|1053|
-|green_book|:green_book:|green book|1054|
-|blue_book|:blue_book:|blue book|1055|
-|orange_book|:orange_book:|orange book|1056|
-|books|:books:|books|1057|
-|notebook|:notebook:|notebook|1058|
-|ledger|:ledger:|ledger|1059|
-|page_with_curl|:page_with_curl:|page with curl|1060|
-|scroll|:scroll:|scroll|1061|
-|page_facing_up|:page_facing_up:|page facing up|1062|
-|newspaper|:newspaper:|newspaper|1063|
-|newspaper_roll|:newspaper_roll:|rolled-up newspaper|1064|
-|bookmark_tabs|:bookmark_tabs:|bookmark tabs|1065|
-|bookmark|:bookmark:|bookmark|1066|
-|label|:label:|label|1067|
-|moneybag|:moneybag:|money bag|1068|
-|yen|:yen:|yen banknote|1069|
-|dollar|:dollar:|dollar banknote|1070|
-|euro|:euro:|euro banknote|1071|
-|pound|:pound:|pound banknote|1072|
-|money_with_wings|:money_with_wings:|money with wings|1073|
-|credit_card|:credit_card:|credit card|1074|
-|||⊛ receipt|1075|
-|chart|:chart:|chart increasing with yen|1076|
-|currency_exchange|:currency_exchange:|currency exchange|1077|
-|heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1078|
-|email|:email:|envelope|1079|
-|e-mail|:e-mail:|e-mail|1080|
-|incoming_envelope|:incoming_envelope:|incoming envelope|1081|
-|envelope_with_arrow|:envelope_with_arrow:|envelope with arrow|1082|
-|outbox_tray|:outbox_tray:|outbox tray|1083|
-|inbox_tray|:inbox_tray:|inbox tray|1084|
-|package|:package:|package|1085|
-|mailbox|:mailbox:|closed mailbox with raised flag|1086|
-|mailbox_closed|:mailbox_closed:|closed mailbox with lowered flag|1087|
-|mailbox_with_mail|:mailbox_with_mail:|open mailbox with raised flag|1088|
-|mailbox_with_no_mail|:mailbox_with_no_mail:|open mailbox with lowered flag|1089|
-|postbox|:postbox:|postbox|1090|
-|ballot_box|:ballot_box:|ballot box with ballot|1091|
-|pencil2|:pencil2:|pencil|1092|
-|black_nib|:black_nib:|black nib|1093|
-|fountain_pen|:fountain_pen:|fountain pen|1094|
-|pen|:pen:|pen|1095|
-|paintbrush|:paintbrush:|paintbrush|1096|
-|crayon|:crayon:|crayon|1097|
-|memo|:memo:|memo|1098|
-|briefcase|:briefcase:|briefcase|1099|
-|file_folder|:file_folder:|file folder|1100|
-|open_file_folder|:open_file_folder:|open file folder|1101|
-|card_index_dividers|:card_index_dividers:|card index dividers|1102|
-|date|:date:|calendar|1103|
-|calendar|:calendar:|tear-off calendar|1104|
-|spiral_notepad|:spiral_notepad:|spiral notepad|1105|
-|spiral_calendar|:spiral_calendar:|spiral calendar|1106|
-|card_index|:card_index:|card index|1107|
-|chart_with_upwards_trend|:chart_with_upwards_trend:|chart increasing|1108|
-|chart_with_downwards_trend|:chart_with_downwards_trend:|chart decreasing|1109|
-|bar_chart|:bar_chart:|bar chart|1110|
-|clipboard|:clipboard:|clipboard|1111|
-|pushpin|:pushpin:|pushpin|1112|
-|round_pushpin|:round_pushpin:|round pushpin|1113|
-|paperclip|:paperclip:|paperclip|1114|
-|paperclips|:paperclips:|linked paperclips|1115|
-|straight_ruler|:straight_ruler:|straight ruler|1116|
-|triangular_ruler|:triangular_ruler:|triangular ruler|1117|
-|scissors|:scissors:|scissors|1118|
-|card_file_box|:card_file_box:|card file box|1119|
-|file_cabinet|:file_cabinet:|file cabinet|1120|
-|wastebasket|:wastebasket:|wastebasket|1121|
-|lock|:lock:|locked|1122|
-|unlock|:unlock:|unlocked|1123|
-|lock_with_ink_pen|:lock_with_ink_pen:|locked with pen|1124|
-|closed_lock_with_key|:closed_lock_with_key:|locked with key|1125|
-|key|:key:|key|1126|
-|old_key|:old_key:|old key|1127|
-|hammer|:hammer:|hammer|1128|
-|pick|:pick:|pick|1129|
-|hammer_and_pick|:hammer_and_pick:|hammer and pick|1130|
-|hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1131|
-|dagger|:dagger:|dagger|1132|
-|crossed_swords|:crossed_swords:|crossed swords|1133|
-|gun|:gun:|pistol|1134|
-|bow_and_arrow|:bow_and_arrow:|bow and arrow|1135|
-|shield|:shield:|shield|1136|
-|wrench|:wrench:|wrench|1137|
-|nut_and_bolt|:nut_and_bolt:|nut and bolt|1138|
-|gear|:gear:|gear|1139|
-|clamp|:clamp:|clamp|1140|
-|balance_scale|:balance_scale:|balance scale|1141|
-|link|:link:|link|1142|
-|chains|:chains:|chains|1143|
-|||⊛ toolbox|1144|
-|||⊛ magnet|1145|
-|alembic|:alembic:|alembic|1146|
-|||⊛ test tube|1147|
-|||⊛ petri dish|1148|
-|||⊛ dna|1149|
-|microscope|:microscope:|microscope|1150|
-|telescope|:telescope:|telescope|1151|
-|satellite|:satellite:|satellite antenna|1152|
-|syringe|:syringe:|syringe|1153|
-|pill|:pill:|pill|1154|
-|door|:door:|door|1155|
-|bed|:bed:|bed|1156|
-|couch_and_lamp|:couch_and_lamp:|couch and lamp|1157|
-|toilet|:toilet:|toilet|1158|
-|shower|:shower:|shower|1159|
-|bathtub|:bathtub:|bathtub|1160|
-|||⊛ lotion bottle|1161|
-|||⊛ safety pin|1162|
-|||⊛ broom|1163|
-|||⊛ basket|1164|
-|||⊛ roll of paper|1165|
-|||⊛ soap|1166|
-|||⊛ sponge|1167|
-|||⊛ fire extinguisher|1168|
-|shopping_cart|:shopping_cart:|shopping cart|1169|
-|smoking|:smoking:|cigarette|1170|
-|coffin|:coffin:|coffin|1171|
-|funeral_urn|:funeral_urn:|funeral urn|1172|
-|moyai|:moyai:|moai|1173|
-|atm|:atm:|ATM sign|1174|
-|put_litter_in_its_place|:put_litter_in_its_place:|litter in bin sign|1175|
-|potable_water|:potable_water:|potable water|1176|
-|wheelchair|:wheelchair:|wheelchair symbol|1177|
-|mens|:mens:|men’s room|1178|
-|womens|:womens:|women’s room|1179|
-|restroom|:restroom:|restroom|1180|
-|baby_symbol|:baby_symbol:|baby symbol|1181|
-|wc|:wc:|water closet|1182|
-|passport_control|:passport_control:|passport control|1183|
-|customs|:customs:|customs|1184|
-|baggage_claim|:baggage_claim:|baggage claim|1185|
-|left_luggage|:left_luggage:|left luggage|1186|
-|warning|:warning:|warning|1187|
-|children_crossing|:children_crossing:|children crossing|1188|
-|no_entry|:no_entry:|no entry|1189|
-|no_entry_sign|:no_entry_sign:|prohibited|1190|
-|no_bicycles|:no_bicycles:|no bicycles|1191|
-|no_smoking|:no_smoking:|no smoking|1192|
-|do_not_litter|:do_not_litter:|no littering|1193|
-|non-potable_water|:non-potable_water:|non-potable water|1194|
-|no_pedestrians|:no_pedestrians:|no pedestrians|1195|
-|no_mobile_phones|:no_mobile_phones:|no mobile phones|1196|
-|underage|:underage:|no one under eighteen|1197|
-|radioactive|:radioactive:|radioactive|1198|
-|biohazard|:biohazard:|biohazard|1199|
-|arrow_up|:arrow_up:|up arrow|1200|
-|arrow_upper_right|:arrow_upper_right:|up-right arrow|1201|
-|arrow_right|:arrow_right:|right arrow|1202|
-|arrow_lower_right|:arrow_lower_right:|down-right arrow|1203|
-|arrow_down|:arrow_down:|down arrow|1204|
-|arrow_lower_left|:arrow_lower_left:|down-left arrow|1205|
-|arrow_left|:arrow_left:|left arrow|1206|
-|arrow_upper_left|:arrow_upper_left:|up-left arrow|1207|
-|arrow_up_down|:arrow_up_down:|up-down arrow|1208|
-|left_right_arrow|:left_right_arrow:|left-right arrow|1209|
-|leftwards_arrow_with_hook|:leftwards_arrow_with_hook:|right arrow curving left|1210|
-|arrow_right_hook|:arrow_right_hook:|left arrow curving right|1211|
-|arrow_heading_up|:arrow_heading_up:|right arrow curving up|1212|
-|arrow_heading_down|:arrow_heading_down:|right arrow curving down|1213|
-|arrows_clockwise|:arrows_clockwise:|clockwise vertical arrows|1214|
-|arrows_counterclockwise|:arrows_counterclockwise:|counterclockwise arrows button|1215|
-|back|:back:|BACK arrow|1216|
-|end|:end:|END arrow|1217|
-|on|:on:|ON! arrow|1218|
-|soon|:soon:|SOON arrow|1219|
-|top|:top:|TOP arrow|1220|
-|place_of_worship|:place_of_worship:|place of worship|1221|
-|atom_symbol|:atom_symbol:|atom symbol|1222|
-|om|:om:|om|1223|
-|star_of_david|:star_of_david:|star of David|1224|
-|wheel_of_dharma|:wheel_of_dharma:|wheel of dharma|1225|
-|yin_yang|:yin_yang:|yin yang|1226|
-|latin_cross|:latin_cross:|latin cross|1227|
-|orthodox_cross|:orthodox_cross:|orthodox cross|1228|
-|star_and_crescent|:star_and_crescent:|star and crescent|1229|
-|peace_symbol|:peace_symbol:|peace symbol|1230|
-|menorah|:menorah:|menorah|1231|
-|six_pointed_star|:six_pointed_star:|dotted six-pointed star|1232|
-|aries|:aries:|Aries|1233|
-|taurus|:taurus:|Taurus|1234|
-|gemini|:gemini:|Gemini|1235|
-|cancer|:cancer:|Cancer|1236|
-|leo|:leo:|Leo|1237|
-|virgo|:virgo:|Virgo|1238|
-|libra|:libra:|Libra|1239|
-|scorpius|:scorpius:|Scorpio|1240|
-|sagittarius|:sagittarius:|Sagittarius|1241|
-|capricorn|:capricorn:|Capricorn|1242|
-|aquarius|:aquarius:|Aquarius|1243|
-|pisces|:pisces:|Pisces|1244|
-|ophiuchus|:ophiuchus:|Ophiuchus|1245|
-|twisted_rightwards_arrows|:twisted_rightwards_arrows:|shuffle tracks button|1246|
-|repeat|:repeat:|repeat button|1247|
-|repeat_one|:repeat_one:|repeat single button|1248|
-|arrow_forward|:arrow_forward:|play button|1249|
-|fast_forward|:fast_forward:|fast-forward button|1250|
-|next_track_button|:next_track_button:|next track button|1251|
-|play_or_pause_button|:play_or_pause_button:|play or pause button|1252|
-|arrow_backward|:arrow_backward:|reverse button|1253|
-|rewind|:rewind:|fast reverse button|1254|
-|previous_track_button|:previous_track_button:|last track button|1255|
-|arrow_up_small|:arrow_up_small:|upwards button|1256|
-|arrow_double_up|:arrow_double_up:|fast up button|1257|
-|arrow_down_small|:arrow_down_small:|downwards button|1258|
-|arrow_double_down|:arrow_double_down:|fast down button|1259|
-|pause_button|:pause_button:|pause button|1260|
-|stop_button|:stop_button:|stop button|1261|
-|record_button|:record_button:|record button|1262|
-|||eject button|1263|
-|cinema|:cinema:|cinema|1264|
-|low_brightness|:low_brightness:|dim button|1265|
-|high_brightness|:high_brightness:|bright button|1266|
-|signal_strength|:signal_strength:|antenna bars|1267|
-|vibration_mode|:vibration_mode:|vibration mode|1268|
-|mobile_phone_off|:mobile_phone_off:|mobile phone off|1269|
+|monkey_face|:monkey_face:|monkey face|442|
+|monkey|:monkey:|monkey|443|
+|gorilla|:gorilla:|gorilla|444|
+|dog|:dog:|dog face|445|
+|dog2|:dog2:|dog|446|
+|poodle|:poodle:|poodle|447|
+|wolf|:wolf:|wolf face|448|
+|fox_face|:fox_face:|fox face|449|
+|||⊛ raccoon|450|
+|cat|:cat:|cat face|451|
+|cat2|:cat2:|cat|452|
+|lion|:lion:|lion face|453|
+|tiger|:tiger:|tiger face|454|
+|tiger2|:tiger2:|tiger|455|
+|leopard|:leopard:|leopard|456|
+|horse|:horse:|horse face|457|
+|racehorse|:racehorse:|horse|458|
+|unicorn|:unicorn:|unicorn face|459|
+|||zebra|460|
+|deer|:deer:|deer|461|
+|cow|:cow:|cow face|462|
+|ox|:ox:|ox|463|
+|water_buffalo|:water_buffalo:|water buffalo|464|
+|cow2|:cow2:|cow|465|
+|pig|:pig:|pig face|466|
+|pig2|:pig2:|pig|467|
+|boar|:boar:|boar|468|
+|pig_nose|:pig_nose:|pig nose|469|
+|ram|:ram:|ram|470|
+|sheep|:sheep:|ewe|471|
+|goat|:goat:|goat|472|
+|dromedary_camel|:dromedary_camel:|camel|473|
+|camel|:camel:|two-hump camel|474|
+|||⊛ llama|475|
+|||giraffe|476|
+|elephant|:elephant:|elephant|477|
+|rhinoceros|:rhinoceros:|rhinoceros|478|
+|||⊛ hippopotamus|479|
+|mouse|:mouse:|mouse face|480|
+|mouse2|:mouse2:|mouse|481|
+|rat|:rat:|rat|482|
+|hamster|:hamster:|hamster face|483|
+|rabbit|:rabbit:|rabbit face|484|
+|rabbit2|:rabbit2:|rabbit|485|
+|chipmunk|:chipmunk:|chipmunk|486|
+|||hedgehog|487|
+|bat|:bat:|bat|488|
+|bear|:bear:|bear face|489|
+|koala|:koala:|koala|490|
+|panda_face|:panda_face:|panda face|491|
+|||⊛ kangaroo|492|
+|||⊛ badger|493|
+|feet|:feet:|paw prints|494|
+|turkey|:turkey:|turkey|495|
+|chicken|:chicken:|chicken|496|
+|rooster|:rooster:|rooster|497|
+|hatching_chick|:hatching_chick:|hatching chick|498|
+|baby_chick|:baby_chick:|baby chick|499|
+|hatched_chick|:hatched_chick:|front-facing baby chick|500|
+|bird|:bird:|bird|501|
+|penguin|:penguin:|penguin|502|
+|dove|:dove:|dove|503|
+|eagle|:eagle:|eagle|504|
+|duck|:duck:|duck|505|
+|||⊛ swan|506|
+|owl|:owl:|owl|507|
+|||⊛ peacock|508|
+|||⊛ parrot|509|
+|frog|:frog:|frog face|510|
+|crocodile|:crocodile:|crocodile|511|
+|turtle|:turtle:|turtle|512|
+|lizard|:lizard:|lizard|513|
+|snake|:snake:|snake|514|
+|dragon_face|:dragon_face:|dragon face|515|
+|dragon|:dragon:|dragon|516|
+|||sauropod|517|
+|||T-Rex|518|
+|whale|:whale:|spouting whale|519|
+|whale2|:whale2:|whale|520|
+|dolphin|:dolphin:|dolphin|521|
+|fish|:fish:|fish|522|
+|tropical_fish|:tropical_fish:|tropical fish|523|
+|blowfish|:blowfish:|blowfish|524|
+|shark|:shark:|shark|525|
+|octopus|:octopus:|octopus|526|
+|shell|:shell:|spiral shell|527|
+|snail|:snail:|snail|528|
+|butterfly|:butterfly:|butterfly|529|
+|bug|:bug:|bug|530|
+|ant|:ant:|ant|531|
+|bee|:bee:|honeybee|532|
+|beetle|:beetle:|lady beetle|533|
+|||cricket|534|
+|spider|:spider:|spider|535|
+|spider_web|:spider_web:|spider web|536|
+|scorpion|:scorpion:|scorpion|537|
+|||⊛ mosquito|538|
+|||⊛ microbe|539|
+|bouquet|:bouquet:|bouquet|540|
+|cherry_blossom|:cherry_blossom:|cherry blossom|541|
+|white_flower|:white_flower:|white flower|542|
+|rosette|:rosette:|rosette|543|
+|rose|:rose:|rose|544|
+|wilted_flower|:wilted_flower:|wilted flower|545|
+|hibiscus|:hibiscus:|hibiscus|546|
+|sunflower|:sunflower:|sunflower|547|
+|blossom|:blossom:|blossom|548|
+|tulip|:tulip:|tulip|549|
+|seedling|:seedling:|seedling|550|
+|evergreen_tree|:evergreen_tree:|evergreen tree|551|
+|deciduous_tree|:deciduous_tree:|deciduous tree|552|
+|palm_tree|:palm_tree:|palm tree|553|
+|cactus|:cactus:|cactus|554|
+|ear_of_rice|:ear_of_rice:|sheaf of rice|555|
+|herb|:herb:|herb|556|
+|shamrock|:shamrock:|shamrock|557|
+|four_leaf_clover|:four_leaf_clover:|four leaf clover|558|
+|maple_leaf|:maple_leaf:|maple leaf|559|
+|fallen_leaf|:fallen_leaf:|fallen leaf|560|
+|leaves|:leaves:|leaf fluttering in wind|561|
+|grapes|:grapes:|grapes|562|
+|melon|:melon:|melon|563|
+|watermelon|:watermelon:|watermelon|564|
+|mandarin|:mandarin:|tangerine|565|
+|lemon|:lemon:|lemon|566|
+|banana|:banana:|banana|567|
+|pineapple|:pineapple:|pineapple|568|
+|||⊛ mango|569|
+|apple|:apple:|red apple|570|
+|green_apple|:green_apple:|green apple|571|
+|pear|:pear:|pear|572|
+|peach|:peach:|peach|573|
+|cherries|:cherries:|cherries|574|
+|strawberry|:strawberry:|strawberry|575|
+|kiwi_fruit|:kiwi_fruit:|kiwi fruit|576|
+|tomato|:tomato:|tomato|577|
+|||coconut|578|
+|avocado|:avocado:|avocado|579|
+|eggplant|:eggplant:|eggplant|580|
+|potato|:potato:|potato|581|
+|carrot|:carrot:|carrot|582|
+|corn|:corn:|ear of corn|583|
+|hot_pepper|:hot_pepper:|hot pepper|584|
+|cucumber|:cucumber:|cucumber|585|
+|||⊛ leafy green|586|
+|||broccoli|587|
+|mushroom|:mushroom:|mushroom|588|
+|peanuts|:peanuts:|peanuts|589|
+|chestnut|:chestnut:|chestnut|590|
+|bread|:bread:|bread|591|
+|croissant|:croissant:|croissant|592|
+|baguette_bread|:baguette_bread:|baguette bread|593|
+|||pretzel|594|
+|||⊛ bagel|595|
+|pancakes|:pancakes:|pancakes|596|
+|cheese|:cheese:|cheese wedge|597|
+|meat_on_bone|:meat_on_bone:|meat on bone|598|
+|poultry_leg|:poultry_leg:|poultry leg|599|
+|||cut of meat|600|
+|bacon|:bacon:|bacon|601|
+|hamburger|:hamburger:|hamburger|602|
+|fries|:fries:|french fries|603|
+|pizza|:pizza:|pizza|604|
+|hotdog|:hotdog:|hot dog|605|
+|||sandwich|606|
+|taco|:taco:|taco|607|
+|burrito|:burrito:|burrito|608|
+|stuffed_flatbread|:stuffed_flatbread:|stuffed flatbread|609|
+|egg|:egg:|egg|610|
+|fried_egg|:fried_egg:|cooking|611|
+|shallow_pan_of_food|:shallow_pan_of_food:|shallow pan of food|612|
+|stew|:stew:|pot of food|613|
+|||bowl with spoon|614|
+|green_salad|:green_salad:|green salad|615|
+|popcorn|:popcorn:|popcorn|616|
+|||⊛ salt|617|
+|||canned food|618|
+|bento|:bento:|bento box|619|
+|rice_cracker|:rice_cracker:|rice cracker|620|
+|rice_ball|:rice_ball:|rice ball|621|
+|rice|:rice:|cooked rice|622|
+|curry|:curry:|curry rice|623|
+|ramen|:ramen:|steaming bowl|624|
+|spaghetti|:spaghetti:|spaghetti|625|
+|sweet_potato|:sweet_potato:|roasted sweet potato|626|
+|oden|:oden:|oden|627|
+|sushi|:sushi:|sushi|628|
+|fried_shrimp|:fried_shrimp:|fried shrimp|629|
+|fish_cake|:fish_cake:|fish cake with swirl|630|
+|||⊛ moon cake|631|
+|dango|:dango:|dango|632|
+|||dumpling|633|
+|||fortune cookie|634|
+|||takeout box|635|
+|crab|:crab:|crab|636|
+|||⊛ lobster|637|
+|shrimp|:shrimp:|shrimp|638|
+|squid|:squid:|squid|639|
+|icecream|:icecream:|soft ice cream|640|
+|shaved_ice|:shaved_ice:|shaved ice|641|
+|ice_cream|:ice_cream:|ice cream|642|
+|doughnut|:doughnut:|doughnut|643|
+|cookie|:cookie:|cookie|644|
+|birthday|:birthday:|birthday cake|645|
+|cake|:cake:|shortcake|646|
+|||⊛ cupcake|647|
+|||pie|648|
+|chocolate_bar|:chocolate_bar:|chocolate bar|649|
+|candy|:candy:|candy|650|
+|lollipop|:lollipop:|lollipop|651|
+|custard|:custard:|custard|652|
+|honey_pot|:honey_pot:|honey pot|653|
+|baby_bottle|:baby_bottle:|baby bottle|654|
+|milk_glass|:milk_glass:|glass of milk|655|
+|coffee|:coffee:|hot beverage|656|
+|tea|:tea:|teacup without handle|657|
+|sake|:sake:|sake|658|
+|champagne|:champagne:|bottle with popping cork|659|
+|wine_glass|:wine_glass:|wine glass|660|
+|cocktail|:cocktail:|cocktail glass|661|
+|tropical_drink|:tropical_drink:|tropical drink|662|
+|beer|:beer:|beer mug|663|
+|beers|:beers:|clinking beer mugs|664|
+|clinking_glasses|:clinking_glasses:|clinking glasses|665|
+|tumbler_glass|:tumbler_glass:|tumbler glass|666|
+|||cup with straw|667|
+|||chopsticks|668|
+|plate_with_cutlery|:plate_with_cutlery:|fork and knife with plate|669|
+|fork_and_knife|:fork_and_knife:|fork and knife|670|
+|spoon|:spoon:|spoon|671|
+|hocho|:hocho:|kitchen knife|672|
+|amphora|:amphora:|amphora|673|
+|earth_africa|:earth_africa:|globe showing Europe-Africa|674|
+|earth_americas|:earth_americas:|globe showing Americas|675|
+|earth_asia|:earth_asia:|globe showing Asia-Australia|676|
+|globe_with_meridians|:globe_with_meridians:|globe with meridians|677|
+|world_map|:world_map:|world map|678|
+|japan|:japan:|map of Japan|679|
+|||⊛ compass|680|
+|mountain_snow|:mountain_snow:|snow-capped mountain|681|
+|mountain|:mountain:|mountain|682|
+|volcano|:volcano:|volcano|683|
+|mount_fuji|:mount_fuji:|mount fuji|684|
+|camping|:camping:|camping|685|
+|beach_umbrella|:beach_umbrella:|beach with umbrella|686|
+|desert|:desert:|desert|687|
+|desert_island|:desert_island:|desert island|688|
+|national_park|:national_park:|national park|689|
+|stadium|:stadium:|stadium|690|
+|classical_building|:classical_building:|classical building|691|
+|building_construction|:building_construction:|building construction|692|
+|||⊛ brick|693|
+|houses|:houses:|houses|694|
+|derelict_house|:derelict_house:|derelict house|695|
+|house|:house:|house|696|
+|house_with_garden|:house_with_garden:|house with garden|697|
+|office|:office:|office building|698|
+|post_office|:post_office:|Japanese post office|699|
+|european_post_office|:european_post_office:|post office|700|
+|hospital|:hospital:|hospital|701|
+|bank|:bank:|bank|702|
+|hotel|:hotel:|hotel|703|
+|love_hotel|:love_hotel:|love hotel|704|
+|convenience_store|:convenience_store:|convenience store|705|
+|school|:school:|school|706|
+|department_store|:department_store:|department store|707|
+|factory|:factory:|factory|708|
+|japanese_castle|:japanese_castle:|Japanese castle|709|
+|european_castle|:european_castle:|castle|710|
+|wedding|:wedding:|wedding|711|
+|tokyo_tower|:tokyo_tower:|Tokyo tower|712|
+|statue_of_liberty|:statue_of_liberty:|Statue of Liberty|713|
+|church|:church:|church|714|
+|mosque|:mosque:|mosque|715|
+|synagogue|:synagogue:|synagogue|716|
+|shinto_shrine|:shinto_shrine:|shinto shrine|717|
+|kaaba|:kaaba:|kaaba|718|
+|fountain|:fountain:|fountain|719|
+|tent|:tent:|tent|720|
+|foggy|:foggy:|foggy|721|
+|night_with_stars|:night_with_stars:|night with stars|722|
+|cityscape|:cityscape:|cityscape|723|
+|sunrise_over_mountains|:sunrise_over_mountains:|sunrise over mountains|724|
+|sunrise|:sunrise:|sunrise|725|
+|city_sunset|:city_sunset:|cityscape at dusk|726|
+|city_sunrise|:city_sunrise:|sunset|727|
+|bridge_at_night|:bridge_at_night:|bridge at night|728|
+|hotsprings|:hotsprings:|hot springs|729|
+|milky_way|:milky_way:|milky way|730|
+|carousel_horse|:carousel_horse:|carousel horse|731|
+|ferris_wheel|:ferris_wheel:|ferris wheel|732|
+|roller_coaster|:roller_coaster:|roller coaster|733|
+|barber|:barber:|barber pole|734|
+|circus_tent|:circus_tent:|circus tent|735|
+|steam_locomotive|:steam_locomotive:|locomotive|736|
+|railway_car|:railway_car:|railway car|737|
+|bullettrain_side|:bullettrain_side:|high-speed train|738|
+|bullettrain_front|:bullettrain_front:|bullet train|739|
+|train2|:train2:|train|740|
+|metro|:metro:|metro|741|
+|light_rail|:light_rail:|light rail|742|
+|station|:station:|station|743|
+|tram|:tram:|tram|744|
+|monorail|:monorail:|monorail|745|
+|mountain_railway|:mountain_railway:|mountain railway|746|
+|train|:train:|tram car|747|
+|bus|:bus:|bus|748|
+|oncoming_bus|:oncoming_bus:|oncoming bus|749|
+|trolleybus|:trolleybus:|trolleybus|750|
+|minibus|:minibus:|minibus|751|
+|ambulance|:ambulance:|ambulance|752|
+|fire_engine|:fire_engine:|fire engine|753|
+|police_car|:police_car:|police car|754|
+|oncoming_police_car|:oncoming_police_car:|oncoming police car|755|
+|taxi|:taxi:|taxi|756|
+|oncoming_taxi|:oncoming_taxi:|oncoming taxi|757|
+|car|:car:|automobile|758|
+|oncoming_automobile|:oncoming_automobile:|oncoming automobile|759|
+|blue_car|:blue_car:|sport utility vehicle|760|
+|truck|:truck:|delivery truck|761|
+|articulated_lorry|:articulated_lorry:|articulated lorry|762|
+|tractor|:tractor:|tractor|763|
+|racing_car|:racing_car:|racing car|764|
+|motorcycle|:motorcycle:|motorcycle|765|
+|motor_scooter|:motor_scooter:|motor scooter|766|
+|bike|:bike:|bicycle|767|
+|kick_scooter|:kick_scooter:|kick scooter|768|
+|||⊛ skateboard|769|
+|busstop|:busstop:|bus stop|770|
+|motorway|:motorway:|motorway|771|
+|railway_track|:railway_track:|railway track|772|
+|oil_drum|:oil_drum:|oil drum|773|
+|fuelpump|:fuelpump:|fuel pump|774|
+|rotating_light|:rotating_light:|police car light|775|
+|traffic_light|:traffic_light:|horizontal traffic light|776|
+|vertical_traffic_light|:vertical_traffic_light:|vertical traffic light|777|
+|stop_sign|:stop_sign:|stop sign|778|
+|construction|:construction:|construction|779|
+|anchor|:anchor:|anchor|780|
+|boat|:boat:|sailboat|781|
+|canoe|:canoe:|canoe|782|
+|speedboat|:speedboat:|speedboat|783|
+|passenger_ship|:passenger_ship:|passenger ship|784|
+|ferry|:ferry:|ferry|785|
+|motor_boat|:motor_boat:|motor boat|786|
+|ship|:ship:|ship|787|
+|airplane|:airplane:|airplane|788|
+|small_airplane|:small_airplane:|small airplane|789|
+|flight_departure|:flight_departure:|airplane departure|790|
+|flight_arrival|:flight_arrival:|airplane arrival|791|
+|seat|:seat:|seat|792|
+|helicopter|:helicopter:|helicopter|793|
+|suspension_railway|:suspension_railway:|suspension railway|794|
+|mountain_cableway|:mountain_cableway:|mountain cableway|795|
+|aerial_tramway|:aerial_tramway:|aerial tramway|796|
+|artificial_satellite|:artificial_satellite:|satellite|797|
+|rocket|:rocket:|rocket|798|
+|||flying saucer|799|
+|bellhop_bell|:bellhop_bell:|bellhop bell|800|
+|||⊛ luggage|801|
+|hourglass|:hourglass:|hourglass done|802|
+|hourglass_flowing_sand|:hourglass_flowing_sand:|hourglass not done|803|
+|watch|:watch:|watch|804|
+|alarm_clock|:alarm_clock:|alarm clock|805|
+|stopwatch|:stopwatch:|stopwatch|806|
+|timer_clock|:timer_clock:|timer clock|807|
+|mantelpiece_clock|:mantelpiece_clock:|mantelpiece clock|808|
+|clock12|:clock12:|twelve o’clock|809|
+|clock1230|:clock1230:|twelve-thirty|810|
+|clock1|:clock1:|one o’clock|811|
+|clock130|:clock130:|one-thirty|812|
+|clock2|:clock2:|two o’clock|813|
+|clock230|:clock230:|two-thirty|814|
+|clock3|:clock3:|three o’clock|815|
+|clock330|:clock330:|three-thirty|816|
+|clock4|:clock4:|four o’clock|817|
+|clock430|:clock430:|four-thirty|818|
+|clock5|:clock5:|five o’clock|819|
+|clock530|:clock530:|five-thirty|820|
+|clock6|:clock6:|six o’clock|821|
+|clock630|:clock630:|six-thirty|822|
+|clock7|:clock7:|seven o’clock|823|
+|clock730|:clock730:|seven-thirty|824|
+|clock8|:clock8:|eight o’clock|825|
+|clock830|:clock830:|eight-thirty|826|
+|clock9|:clock9:|nine o’clock|827|
+|clock930|:clock930:|nine-thirty|828|
+|clock10|:clock10:|ten o’clock|829|
+|clock1030|:clock1030:|ten-thirty|830|
+|clock11|:clock11:|eleven o’clock|831|
+|clock1130|:clock1130:|eleven-thirty|832|
+|new_moon|:new_moon:|new moon|833|
+|waxing_crescent_moon|:waxing_crescent_moon:|waxing crescent moon|834|
+|first_quarter_moon|:first_quarter_moon:|first quarter moon|835|
+|moon|:moon:|waxing gibbous moon|836|
+|full_moon|:full_moon:|full moon|837|
+|waning_gibbous_moon|:waning_gibbous_moon:|waning gibbous moon|838|
+|last_quarter_moon|:last_quarter_moon:|last quarter moon|839|
+|waning_crescent_moon|:waning_crescent_moon:|waning crescent moon|840|
+|crescent_moon|:crescent_moon:|crescent moon|841|
+|new_moon_with_face|:new_moon_with_face:|new moon face|842|
+|first_quarter_moon_with_face|:first_quarter_moon_with_face:|first quarter moon face|843|
+|last_quarter_moon_with_face|:last_quarter_moon_with_face:|last quarter moon face|844|
+|thermometer|:thermometer:|thermometer|845|
+|sunny|:sunny:|sun|846|
+|full_moon_with_face|:full_moon_with_face:|full moon face|847|
+|sun_with_face|:sun_with_face:|sun with face|848|
+|star|:star:|star|849|
+|star2|:star2:|glowing star|850|
+|stars|:stars:|shooting star|851|
+|cloud|:cloud:|cloud|852|
+|partly_sunny|:partly_sunny:|sun behind cloud|853|
+|cloud_with_lightning_and_rain|:cloud_with_lightning_and_rain:|cloud with lightning and rain|854|
+|sun_behind_small_cloud|:sun_behind_small_cloud:|sun behind small cloud|855|
+|sun_behind_large_cloud|:sun_behind_large_cloud:|sun behind large cloud|856|
+|sun_behind_rain_cloud|:sun_behind_rain_cloud:|sun behind rain cloud|857|
+|cloud_with_rain|:cloud_with_rain:|cloud with rain|858|
+|cloud_with_snow|:cloud_with_snow:|cloud with snow|859|
+|cloud_with_lightning|:cloud_with_lightning:|cloud with lightning|860|
+|tornado|:tornado:|tornado|861|
+|fog|:fog:|fog|862|
+|wind_face|:wind_face:|wind face|863|
+|cyclone|:cyclone:|cyclone|864|
+|rainbow|:rainbow:|rainbow|865|
+|closed_umbrella|:closed_umbrella:|closed umbrella|866|
+|open_umbrella|:open_umbrella:|umbrella|867|
+|umbrella|:umbrella:|umbrella with rain drops|868|
+|parasol_on_ground|:parasol_on_ground:|umbrella on ground|869|
+|zap|:zap:|high voltage|870|
+|snowflake|:snowflake:|snowflake|871|
+|snowman_with_snow|:snowman_with_snow:|snowman|872|
+|snowman|:snowman:|snowman without snow|873|
+|comet|:comet:|comet|874|
+|fire|:fire:|fire|875|
+|droplet|:droplet:|droplet|876|
+|ocean|:ocean:|water wave|877|
+|jack_o_lantern|:jack_o_lantern:|jack-o-lantern|878|
+|christmas_tree|:christmas_tree:|Christmas tree|879|
+|fireworks|:fireworks:|fireworks|880|
+|sparkler|:sparkler:|sparkler|881|
+|||⊛ firecracker|882|
+|sparkles|:sparkles:|sparkles|883|
+|balloon|:balloon:|balloon|884|
+|tada|:tada:|party popper|885|
+|confetti_ball|:confetti_ball:|confetti ball|886|
+|tanabata_tree|:tanabata_tree:|tanabata tree|887|
+|bamboo|:bamboo:|pine decoration|888|
+|dolls|:dolls:|Japanese dolls|889|
+|flags|:flags:|carp streamer|890|
+|wind_chime|:wind_chime:|wind chime|891|
+|rice_scene|:rice_scene:|moon viewing ceremony|892|
+|||⊛ red envelope|893|
+|ribbon|:ribbon:|ribbon|894|
+|gift|:gift:|wrapped gift|895|
+|reminder_ribbon|:reminder_ribbon:|reminder ribbon|896|
+|tickets|:tickets:|admission tickets|897|
+|ticket|:ticket:|ticket|898|
+|medal_military|:medal_military:|military medal|899|
+|trophy|:trophy:|trophy|900|
+|medal_sports|:medal_sports:|sports medal|901|
+|1st_place_medal|:1st_place_medal:|1st place medal|902|
+|2nd_place_medal|:2nd_place_medal:|2nd place medal|903|
+|3rd_place_medal|:3rd_place_medal:|3rd place medal|904|
+|soccer|:soccer:|soccer ball|905|
+|baseball|:baseball:|baseball|906|
+|||⊛ softball|907|
+|basketball|:basketball:|basketball|908|
+|volleyball|:volleyball:|volleyball|909|
+|football|:football:|american football|910|
+|rugby_football|:rugby_football:|rugby football|911|
+|tennis|:tennis:|tennis|912|
+|||⊛ flying disc|913|
+|bowling|:bowling:|bowling|914|
+|cricket|:cricket:|cricket game|915|
+|field_hockey|:field_hockey:|field hockey|916|
+|ice_hockey|:ice_hockey:|ice hockey|917|
+|||⊛ lacrosse|918|
+|ping_pong|:ping_pong:|ping pong|919|
+|badminton|:badminton:|badminton|920|
+|boxing_glove|:boxing_glove:|boxing glove|921|
+|martial_arts_uniform|:martial_arts_uniform:|martial arts uniform|922|
+|goal_net|:goal_net:|goal net|923|
+|golf|:golf:|flag in hole|924|
+|ice_skate|:ice_skate:|ice skate|925|
+|fishing_pole_and_fish|:fishing_pole_and_fish:|fishing pole|926|
+|running_shirt_with_sash|:running_shirt_with_sash:|running shirt|927|
+|ski|:ski:|skis|928|
+|||sled|929|
+|||curling stone|930|
+|dart|:dart:|direct hit|931|
+|8ball|:8ball:|pool 8 ball|932|
+|crystal_ball|:crystal_ball:|crystal ball|933|
+|||⊛ nazar amulet|934|
+|video_game|:video_game:|video game|935|
+|joystick|:joystick:|joystick|936|
+|slot_machine|:slot_machine:|slot machine|937|
+|game_die|:game_die:|game die|938|
+|||⊛ jigsaw|939|
+|||⊛ teddy bear|940|
+|spades|:spades:|spade suit|941|
+|hearts|:hearts:|heart suit|942|
+|diamonds|:diamonds:|diamond suit|943|
+|clubs|:clubs:|club suit|944|
+|||⊛ chess pawn|945|
+|black_joker|:black_joker:|joker|946|
+|mahjong|:mahjong:|mahjong red dragon|947|
+|flower_playing_cards|:flower_playing_cards:|flower playing cards|948|
+|performing_arts|:performing_arts:|performing arts|949|
+|framed_picture|:framed_picture:|framed picture|950|
+|art|:art:|artist palette|951|
+|||⊛ thread|952|
+|||⊛ yarn|953|
+|eyeglasses|:eyeglasses:|glasses|954|
+|dark_sunglasses|:dark_sunglasses:|sunglasses|955|
+|||⊛ goggles|956|
+|||⊛ lab coat|957|
+|necktie|:necktie:|necktie|958|
+|shirt|:shirt:|t-shirt|959|
+|jeans|:jeans:|jeans|960|
+|||scarf|961|
+|||gloves|962|
+|||coat|963|
+|||socks|964|
+|dress|:dress:|dress|965|
+|kimono|:kimono:|kimono|966|
+|bikini|:bikini:|bikini|967|
+|womans_clothes|:womans_clothes:|woman’s clothes|968|
+|purse|:purse:|purse|969|
+|handbag|:handbag:|handbag|970|
+|pouch|:pouch:|clutch bag|971|
+|shopping|:shopping:|shopping bags|972|
+|school_satchel|:school_satchel:|backpack|973|
+|mans_shoe|:mans_shoe:|man’s shoe|974|
+|athletic_shoe|:athletic_shoe:|running shoe|975|
+|||⊛ hiking boot|976|
+|||⊛ flat shoe|977|
+|high_heel|:high_heel:|high-heeled shoe|978|
+|sandal|:sandal:|woman’s sandal|979|
+|boot|:boot:|woman’s boot|980|
+|crown|:crown:|crown|981|
+|womans_hat|:womans_hat:|woman’s hat|982|
+|tophat|:tophat:|top hat|983|
+|mortar_board|:mortar_board:|graduation cap|984|
+|||billed cap|985|
+|rescue_worker_helmet|:rescue_worker_helmet:|rescue worker’s helmet|986|
+|prayer_beads|:prayer_beads:|prayer beads|987|
+|lipstick|:lipstick:|lipstick|988|
+|ring|:ring:|ring|989|
+|gem|:gem:|gem stone|990|
+|mute|:mute:|muted speaker|991|
+|speaker|:speaker:|speaker low volume|992|
+|sound|:sound:|speaker medium volume|993|
+|loud_sound|:loud_sound:|speaker high volume|994|
+|loudspeaker|:loudspeaker:|loudspeaker|995|
+|mega|:mega:|megaphone|996|
+|postal_horn|:postal_horn:|postal horn|997|
+|bell|:bell:|bell|998|
+|no_bell|:no_bell:|bell with slash|999|
+|musical_score|:musical_score:|musical score|1000|
+|musical_note|:musical_note:|musical note|1001|
+|notes|:notes:|musical notes|1002|
+|studio_microphone|:studio_microphone:|studio microphone|1003|
+|level_slider|:level_slider:|level slider|1004|
+|control_knobs|:control_knobs:|control knobs|1005|
+|microphone|:microphone:|microphone|1006|
+|headphones|:headphones:|headphone|1007|
+|radio|:radio:|radio|1008|
+|saxophone|:saxophone:|saxophone|1009|
+|guitar|:guitar:|guitar|1010|
+|musical_keyboard|:musical_keyboard:|musical keyboard|1011|
+|trumpet|:trumpet:|trumpet|1012|
+|violin|:violin:|violin|1013|
+|drum|:drum:|drum|1014|
+|iphone|:iphone:|mobile phone|1015|
+|calling|:calling:|mobile phone with arrow|1016|
+|phone|:phone:|telephone|1017|
+|telephone_receiver|:telephone_receiver:|telephone receiver|1018|
+|pager|:pager:|pager|1019|
+|fax|:fax:|fax machine|1020|
+|battery|:battery:|battery|1021|
+|electric_plug|:electric_plug:|electric plug|1022|
+|computer|:computer:|laptop computer|1023|
+|desktop_computer|:desktop_computer:|desktop computer|1024|
+|printer|:printer:|printer|1025|
+|keyboard|:keyboard:|keyboard|1026|
+|computer_mouse|:computer_mouse:|computer mouse|1027|
+|trackball|:trackball:|trackball|1028|
+|minidisc|:minidisc:|computer disk|1029|
+|floppy_disk|:floppy_disk:|floppy disk|1030|
+|cd|:cd:|optical disk|1031|
+|dvd|:dvd:|dvd|1032|
+|||⊛ abacus|1033|
+|movie_camera|:movie_camera:|movie camera|1034|
+|film_strip|:film_strip:|film frames|1035|
+|film_projector|:film_projector:|film projector|1036|
+|clapper|:clapper:|clapper board|1037|
+|tv|:tv:|television|1038|
+|camera|:camera:|camera|1039|
+|camera_flash|:camera_flash:|camera with flash|1040|
+|video_camera|:video_camera:|video camera|1041|
+|vhs|:vhs:|videocassette|1042|
+|mag|:mag:|magnifying glass tilted left|1043|
+|mag_right|:mag_right:|magnifying glass tilted right|1044|
+|candle|:candle:|candle|1045|
+|bulb|:bulb:|light bulb|1046|
+|flashlight|:flashlight:|flashlight|1047|
+|izakaya_lantern|:izakaya_lantern:|red paper lantern|1048|
+|notebook_with_decorative_cover|:notebook_with_decorative_cover:|notebook with decorative cover|1049|
+|closed_book|:closed_book:|closed book|1050|
+|book|:book:|open book|1051|
+|green_book|:green_book:|green book|1052|
+|blue_book|:blue_book:|blue book|1053|
+|orange_book|:orange_book:|orange book|1054|
+|books|:books:|books|1055|
+|notebook|:notebook:|notebook|1056|
+|ledger|:ledger:|ledger|1057|
+|page_with_curl|:page_with_curl:|page with curl|1058|
+|scroll|:scroll:|scroll|1059|
+|page_facing_up|:page_facing_up:|page facing up|1060|
+|newspaper|:newspaper:|newspaper|1061|
+|newspaper_roll|:newspaper_roll:|rolled-up newspaper|1062|
+|bookmark_tabs|:bookmark_tabs:|bookmark tabs|1063|
+|bookmark|:bookmark:|bookmark|1064|
+|label|:label:|label|1065|
+|moneybag|:moneybag:|money bag|1066|
+|yen|:yen:|yen banknote|1067|
+|dollar|:dollar:|dollar banknote|1068|
+|euro|:euro:|euro banknote|1069|
+|pound|:pound:|pound banknote|1070|
+|money_with_wings|:money_with_wings:|money with wings|1071|
+|credit_card|:credit_card:|credit card|1072|
+|||⊛ receipt|1073|
+|chart|:chart:|chart increasing with yen|1074|
+|currency_exchange|:currency_exchange:|currency exchange|1075|
+|heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1076|
+|email|:email:|envelope|1077|
+|e-mail|:e-mail:|e-mail|1078|
+|incoming_envelope|:incoming_envelope:|incoming envelope|1079|
+|envelope_with_arrow|:envelope_with_arrow:|envelope with arrow|1080|
+|outbox_tray|:outbox_tray:|outbox tray|1081|
+|inbox_tray|:inbox_tray:|inbox tray|1082|
+|package|:package:|package|1083|
+|mailbox|:mailbox:|closed mailbox with raised flag|1084|
+|mailbox_closed|:mailbox_closed:|closed mailbox with lowered flag|1085|
+|mailbox_with_mail|:mailbox_with_mail:|open mailbox with raised flag|1086|
+|mailbox_with_no_mail|:mailbox_with_no_mail:|open mailbox with lowered flag|1087|
+|postbox|:postbox:|postbox|1088|
+|ballot_box|:ballot_box:|ballot box with ballot|1089|
+|pencil2|:pencil2:|pencil|1090|
+|black_nib|:black_nib:|black nib|1091|
+|fountain_pen|:fountain_pen:|fountain pen|1092|
+|pen|:pen:|pen|1093|
+|paintbrush|:paintbrush:|paintbrush|1094|
+|crayon|:crayon:|crayon|1095|
+|memo|:memo:|memo|1096|
+|briefcase|:briefcase:|briefcase|1097|
+|file_folder|:file_folder:|file folder|1098|
+|open_file_folder|:open_file_folder:|open file folder|1099|
+|card_index_dividers|:card_index_dividers:|card index dividers|1100|
+|date|:date:|calendar|1101|
+|calendar|:calendar:|tear-off calendar|1102|
+|spiral_notepad|:spiral_notepad:|spiral notepad|1103|
+|spiral_calendar|:spiral_calendar:|spiral calendar|1104|
+|card_index|:card_index:|card index|1105|
+|chart_with_upwards_trend|:chart_with_upwards_trend:|chart increasing|1106|
+|chart_with_downwards_trend|:chart_with_downwards_trend:|chart decreasing|1107|
+|bar_chart|:bar_chart:|bar chart|1108|
+|clipboard|:clipboard:|clipboard|1109|
+|pushpin|:pushpin:|pushpin|1110|
+|round_pushpin|:round_pushpin:|round pushpin|1111|
+|paperclip|:paperclip:|paperclip|1112|
+|paperclips|:paperclips:|linked paperclips|1113|
+|straight_ruler|:straight_ruler:|straight ruler|1114|
+|triangular_ruler|:triangular_ruler:|triangular ruler|1115|
+|scissors|:scissors:|scissors|1116|
+|card_file_box|:card_file_box:|card file box|1117|
+|file_cabinet|:file_cabinet:|file cabinet|1118|
+|wastebasket|:wastebasket:|wastebasket|1119|
+|lock|:lock:|locked|1120|
+|unlock|:unlock:|unlocked|1121|
+|lock_with_ink_pen|:lock_with_ink_pen:|locked with pen|1122|
+|closed_lock_with_key|:closed_lock_with_key:|locked with key|1123|
+|key|:key:|key|1124|
+|old_key|:old_key:|old key|1125|
+|hammer|:hammer:|hammer|1126|
+|pick|:pick:|pick|1127|
+|hammer_and_pick|:hammer_and_pick:|hammer and pick|1128|
+|hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1129|
+|dagger|:dagger:|dagger|1130|
+|crossed_swords|:crossed_swords:|crossed swords|1131|
+|gun|:gun:|pistol|1132|
+|bow_and_arrow|:bow_and_arrow:|bow and arrow|1133|
+|shield|:shield:|shield|1134|
+|wrench|:wrench:|wrench|1135|
+|nut_and_bolt|:nut_and_bolt:|nut and bolt|1136|
+|gear|:gear:|gear|1137|
+|clamp|:clamp:|clamp|1138|
+|balance_scale|:balance_scale:|balance scale|1139|
+|link|:link:|link|1140|
+|chains|:chains:|chains|1141|
+|||⊛ toolbox|1142|
+|||⊛ magnet|1143|
+|alembic|:alembic:|alembic|1144|
+|||⊛ test tube|1145|
+|||⊛ petri dish|1146|
+|||⊛ dna|1147|
+|microscope|:microscope:|microscope|1148|
+|telescope|:telescope:|telescope|1149|
+|satellite|:satellite:|satellite antenna|1150|
+|syringe|:syringe:|syringe|1151|
+|pill|:pill:|pill|1152|
+|door|:door:|door|1153|
+|bed|:bed:|bed|1154|
+|couch_and_lamp|:couch_and_lamp:|couch and lamp|1155|
+|toilet|:toilet:|toilet|1156|
+|shower|:shower:|shower|1157|
+|bathtub|:bathtub:|bathtub|1158|
+|||⊛ lotion bottle|1159|
+|||⊛ safety pin|1160|
+|||⊛ broom|1161|
+|||⊛ basket|1162|
+|||⊛ roll of paper|1163|
+|||⊛ soap|1164|
+|||⊛ sponge|1165|
+|||⊛ fire extinguisher|1166|
+|shopping_cart|:shopping_cart:|shopping cart|1167|
+|smoking|:smoking:|cigarette|1168|
+|coffin|:coffin:|coffin|1169|
+|funeral_urn|:funeral_urn:|funeral urn|1170|
+|moyai|:moyai:|moai|1171|
+|atm|:atm:|ATM sign|1172|
+|put_litter_in_its_place|:put_litter_in_its_place:|litter in bin sign|1173|
+|potable_water|:potable_water:|potable water|1174|
+|wheelchair|:wheelchair:|wheelchair symbol|1175|
+|mens|:mens:|men’s room|1176|
+|womens|:womens:|women’s room|1177|
+|restroom|:restroom:|restroom|1178|
+|baby_symbol|:baby_symbol:|baby symbol|1179|
+|wc|:wc:|water closet|1180|
+|passport_control|:passport_control:|passport control|1181|
+|customs|:customs:|customs|1182|
+|baggage_claim|:baggage_claim:|baggage claim|1183|
+|left_luggage|:left_luggage:|left luggage|1184|
+|warning|:warning:|warning|1185|
+|children_crossing|:children_crossing:|children crossing|1186|
+|no_entry|:no_entry:|no entry|1187|
+|no_entry_sign|:no_entry_sign:|prohibited|1188|
+|no_bicycles|:no_bicycles:|no bicycles|1189|
+|no_smoking|:no_smoking:|no smoking|1190|
+|do_not_litter|:do_not_litter:|no littering|1191|
+|non-potable_water|:non-potable_water:|non-potable water|1192|
+|no_pedestrians|:no_pedestrians:|no pedestrians|1193|
+|no_mobile_phones|:no_mobile_phones:|no mobile phones|1194|
+|underage|:underage:|no one under eighteen|1195|
+|radioactive|:radioactive:|radioactive|1196|
+|biohazard|:biohazard:|biohazard|1197|
+|arrow_up|:arrow_up:|up arrow|1198|
+|arrow_upper_right|:arrow_upper_right:|up-right arrow|1199|
+|arrow_right|:arrow_right:|right arrow|1200|
+|arrow_lower_right|:arrow_lower_right:|down-right arrow|1201|
+|arrow_down|:arrow_down:|down arrow|1202|
+|arrow_lower_left|:arrow_lower_left:|down-left arrow|1203|
+|arrow_left|:arrow_left:|left arrow|1204|
+|arrow_upper_left|:arrow_upper_left:|up-left arrow|1205|
+|arrow_up_down|:arrow_up_down:|up-down arrow|1206|
+|left_right_arrow|:left_right_arrow:|left-right arrow|1207|
+|leftwards_arrow_with_hook|:leftwards_arrow_with_hook:|right arrow curving left|1208|
+|arrow_right_hook|:arrow_right_hook:|left arrow curving right|1209|
+|arrow_heading_up|:arrow_heading_up:|right arrow curving up|1210|
+|arrow_heading_down|:arrow_heading_down:|right arrow curving down|1211|
+|arrows_clockwise|:arrows_clockwise:|clockwise vertical arrows|1212|
+|arrows_counterclockwise|:arrows_counterclockwise:|counterclockwise arrows button|1213|
+|back|:back:|BACK arrow|1214|
+|end|:end:|END arrow|1215|
+|on|:on:|ON! arrow|1216|
+|soon|:soon:|SOON arrow|1217|
+|top|:top:|TOP arrow|1218|
+|place_of_worship|:place_of_worship:|place of worship|1219|
+|atom_symbol|:atom_symbol:|atom symbol|1220|
+|om|:om:|om|1221|
+|star_of_david|:star_of_david:|star of David|1222|
+|wheel_of_dharma|:wheel_of_dharma:|wheel of dharma|1223|
+|yin_yang|:yin_yang:|yin yang|1224|
+|latin_cross|:latin_cross:|latin cross|1225|
+|orthodox_cross|:orthodox_cross:|orthodox cross|1226|
+|star_and_crescent|:star_and_crescent:|star and crescent|1227|
+|peace_symbol|:peace_symbol:|peace symbol|1228|
+|menorah|:menorah:|menorah|1229|
+|six_pointed_star|:six_pointed_star:|dotted six-pointed star|1230|
+|aries|:aries:|Aries|1231|
+|taurus|:taurus:|Taurus|1232|
+|gemini|:gemini:|Gemini|1233|
+|cancer|:cancer:|Cancer|1234|
+|leo|:leo:|Leo|1235|
+|virgo|:virgo:|Virgo|1236|
+|libra|:libra:|Libra|1237|
+|scorpius|:scorpius:|Scorpio|1238|
+|sagittarius|:sagittarius:|Sagittarius|1239|
+|capricorn|:capricorn:|Capricorn|1240|
+|aquarius|:aquarius:|Aquarius|1241|
+|pisces|:pisces:|Pisces|1242|
+|ophiuchus|:ophiuchus:|Ophiuchus|1243|
+|twisted_rightwards_arrows|:twisted_rightwards_arrows:|shuffle tracks button|1244|
+|repeat|:repeat:|repeat button|1245|
+|repeat_one|:repeat_one:|repeat single button|1246|
+|arrow_forward|:arrow_forward:|play button|1247|
+|fast_forward|:fast_forward:|fast-forward button|1248|
+|next_track_button|:next_track_button:|next track button|1249|
+|play_or_pause_button|:play_or_pause_button:|play or pause button|1250|
+|arrow_backward|:arrow_backward:|reverse button|1251|
+|rewind|:rewind:|fast reverse button|1252|
+|previous_track_button|:previous_track_button:|last track button|1253|
+|arrow_up_small|:arrow_up_small:|upwards button|1254|
+|arrow_double_up|:arrow_double_up:|fast up button|1255|
+|arrow_down_small|:arrow_down_small:|downwards button|1256|
+|arrow_double_down|:arrow_double_down:|fast down button|1257|
+|pause_button|:pause_button:|pause button|1258|
+|stop_button|:stop_button:|stop button|1259|
+|record_button|:record_button:|record button|1260|
+|||eject button|1261|
+|cinema|:cinema:|cinema|1262|
+|low_brightness|:low_brightness:|dim button|1263|
+|high_brightness|:high_brightness:|bright button|1264|
+|signal_strength|:signal_strength:|antenna bars|1265|
+|vibration_mode|:vibration_mode:|vibration mode|1266|
+|mobile_phone_off|:mobile_phone_off:|mobile phone off|1267|
+|||female sign|1268|
+|||male sign|1269|
 |||medical symbol|1270|
 |||⊛ infinity|1271|
 |recycle|:recycle:|recycling symbol|1272|
