@@ -2,5 +2,5 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|syringe|:syringe:|syringe|1151|
-|pill|:pill:|pill|1152|
+|||syringe|1151|
+|||pill|1152|

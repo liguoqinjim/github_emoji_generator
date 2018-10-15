@@ -400,12 +400,13 @@ func (unicodeEmoji *UnicodeEmoji) MatchGithubEmoji() {
 		if !match {
 			continue
 		} else {
-			//if unicodeEmoji.Match {
-			//	log.Fatalf("data error")
-			//}
-			unicodeEmoji.Match = true
-			githubEmoji.Match = true
-			unicodeEmoji.GithubEmoji = githubEmoji
+			if !unicodeEmoji.Match { //github emojis可能有多个相同unicode但是不一样的name的情况
+				githubEmoji.Match = true
+			} else {
+				unicodeEmoji.Match = true
+				githubEmoji.Match = true
+				unicodeEmoji.GithubEmoji = githubEmoji
+			}
 		}
 	}
 }

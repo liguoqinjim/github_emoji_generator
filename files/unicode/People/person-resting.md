@@ -5,5 +5,5 @@
 |||person in lotus position|392|
 |||man in lotus position|393|
 |||woman in lotus position|394|
-|bath|:bath:|person taking bath|395|
-|sleeping_bed|:sleeping_bed:|person in bed|396|
+|||person taking bath|395|
+|||person in bed|396|

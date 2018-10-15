@@ -2,9 +2,9 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|angel|:angel:|baby angel|295|
-|santa|:santa:|Santa Claus|296|
-|mrs_claus|:mrs_claus:|Mrs. Claus|297|
+|||baby angel|295|
+|||Santa Claus|296|
+|||Mrs. Claus|297|
 |||⊛ superhero|298|
 |||⊛ man superhero|299|
 |||⊛ woman superhero|300|
