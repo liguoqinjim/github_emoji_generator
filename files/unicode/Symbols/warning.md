@@ -2,16 +2,16 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|atm|:atm:|ATM sign|1174|
-|put_litter_in_its_place|:put_litter_in_its_place:|litter in bin sign|1175|
-|potable_water|:potable_water:|potable water|1176|
-|wheelchair|:wheelchair:|wheelchair symbol|1177|
-|mens|:mens:|men’s room|1178|
-|womens|:womens:|women’s room|1179|
-|restroom|:restroom:|restroom|1180|
-|baby_symbol|:baby_symbol:|baby symbol|1181|
-|wc|:wc:|water closet|1182|
-|passport_control|:passport_control:|passport control|1183|
-|customs|:customs:|customs|1184|
-|baggage_claim|:baggage_claim:|baggage claim|1185|
-|left_luggage|:left_luggage:|left luggage|1186|
+|warning|:warning:|warning|1187|
+|children_crossing|:children_crossing:|children crossing|1188|
+|no_entry|:no_entry:|no entry|1189|
+|no_entry_sign|:no_entry_sign:|prohibited|1190|
+|no_bicycles|:no_bicycles:|no bicycles|1191|
+|no_smoking|:no_smoking:|no smoking|1192|
+|do_not_litter|:do_not_litter:|no littering|1193|
+|non-potable_water|:non-potable_water:|non-potable water|1194|
+|no_pedestrians|:no_pedestrians:|no pedestrians|1195|
+|no_mobile_phones|:no_mobile_phones:|no mobile phones|1196|
+|underage|:underage:|no one under eighteen|1197|
+|radioactive|:radioactive:|radioactive|1198|
+|biohazard|:biohazard:|biohazard|1199|

@@ -2,25 +2,30 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|baby|:baby:|baby|191|
-|||child|192|
-|boy|:boy:|boy|193|
-|girl|:girl:|girl|194|
-|||person|195|
-|blonde_man|:blonde_man:|person: blond hair|196|
-|man|:man:|man|197|
-|||man: blond hair|198|
-|||⊛ man: red hair|199|
-|||⊛ man: curly hair|200|
-|||⊛ man: white hair|201|
-|||⊛ man: bald|202|
-|||man: beard|203|
-|woman|:woman:|woman|204|
-|blonde_woman|:blonde_woman:|woman: blond hair|205|
-|||⊛ woman: red hair|206|
-|||⊛ woman: curly hair|207|
-|||⊛ woman: white hair|208|
-|||⊛ woman: bald|209|
-|||older person|210|
-|older_man|:older_man:|old man|211|
-|older_woman|:older_woman:|old woman|212|
+|frowning_man|:frowning_man:|person frowning|213|
+|frowning_man|:frowning_man:|man frowning|214|
+|||woman frowning|215|
+|person_with_pouting_face|:person_with_pouting_face:|person pouting|216|
+|pouting_man|:pouting_man:|man pouting|217|
+|||woman pouting|218|
+|ng_man|:ng_man:|person gesturing NO|219|
+|ng_man|:ng_man:|man gesturing NO|220|
+|||woman gesturing NO|221|
+|ok_man|:ok_man:|person gesturing OK|222|
+|ok_man|:ok_man:|man gesturing OK|223|
+|||woman gesturing OK|224|
+|information_desk_person|:information_desk_person:|person tipping hand|225|
+|tipping_hand_man|:tipping_hand_man:|man tipping hand|226|
+|||woman tipping hand|227|
+|raising_hand|:raising_hand:|person raising hand|228|
+|raising_hand_man|:raising_hand_man:|man raising hand|229|
+|||woman raising hand|230|
+|bow|:bow:|person bowing|231|
+|||man bowing|232|
+|bowing_woman|:bowing_woman:|woman bowing|233|
+|man_facepalming|:man_facepalming:|person facepalming|234|
+|man_facepalming|:man_facepalming:|man facepalming|235|
+|woman_facepalming|:woman_facepalming:|woman facepalming|236|
+|man_shrugging|:man_shrugging:|person shrugging|237|
+|man_shrugging|:man_shrugging:|man shrugging|238|
+|woman_shrugging|:woman_shrugging:|woman shrugging|239|

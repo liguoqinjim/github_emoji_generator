@@ -2,9 +2,9 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|saxophone|:saxophone:|saxophone|1011|
-|guitar|:guitar:|guitar|1012|
-|musical_keyboard|:musical_keyboard:|musical keyboard|1013|
-|trumpet|:trumpet:|trumpet|1014|
-|violin|:violin:|violin|1015|
-|drum|:drum:|drum|1016|
+|iphone|:iphone:|mobile phone|1017|
+|calling|:calling:|mobile phone with arrow|1018|
+|phone|:phone:|telephone|1019|
+|telephone_receiver|:telephone_receiver:|telephone receiver|1020|
+|pager|:pager:|pager|1021|
+|fax|:fax:|fax machine|1022|

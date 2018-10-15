@@ -2,33 +2,27 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|angel|:angel:|baby angel|295|
-|santa|:santa:|Santa Claus|296|
-|mrs_claus|:mrs_claus:|Mrs. Claus|297|
-|||⊛ superhero|298|
-|||⊛ man superhero|299|
-|||⊛ woman superhero|300|
-|||⊛ supervillain|301|
-|||⊛ man supervillain|302|
-|||⊛ woman supervillain|303|
-|||mage|304|
-|||man mage|305|
-|||woman mage|306|
-|||fairy|307|
-|||man fairy|308|
-|||woman fairy|309|
-|||vampire|310|
-|||man vampire|311|
-|||woman vampire|312|
-|||merperson|313|
-|||merman|314|
-|||mermaid|315|
-|||elf|316|
-|||man elf|317|
-|||woman elf|318|
-|||genie|319|
-|||man genie|320|
-|||woman genie|321|
-|||zombie|322|
-|||man zombie|323|
-|||woman zombie|324|
+|massage|:massage:|person getting massage|325|
+|massage_man|:massage_man:|man getting massage|326|
+|||woman getting massage|327|
+|haircut|:haircut:|person getting haircut|328|
+|haircut_man|:haircut_man:|man getting haircut|329|
+|||woman getting haircut|330|
+|walking|:walking:|person walking|331|
+|||man walking|332|
+|walking_woman|:walking_woman:|woman walking|333|
+|runner|:runner:|person running|334|
+|||man running|335|
+|running_woman|:running_woman:|woman running|336|
+|dancer|:dancer:|woman dancing|337|
+|man_dancing|:man_dancing:|man dancing|338|
+|business_suit_levitating|:business_suit_levitating:|man in suit levitating|339|
+|dancers|:dancers:|people with bunny ears|340|
+|dancing_men|:dancing_men:|men with bunny ears|341|
+|||women with bunny ears|342|
+|||person in steamy room|343|
+|||man in steamy room|344|
+|||woman in steamy room|345|
+|||person climbing|346|
+|||man climbing|347|
+|||woman climbing|348|

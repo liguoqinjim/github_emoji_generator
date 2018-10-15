@@ -2,10 +2,12 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|earth_africa|:earth_africa:|globe showing Europe-Africa|676|
-|earth_americas|:earth_americas:|globe showing Americas|677|
-|earth_asia|:earth_asia:|globe showing Asia-Australia|678|
-|globe_with_meridians|:globe_with_meridians:|globe with meridians|679|
-|world_map|:world_map:|world map|680|
-|japan|:japan:|map of Japan|681|
-|||⊛ compass|682|
+|mountain_snow|:mountain_snow:|snow-capped mountain|683|
+|mountain|:mountain:|mountain|684|
+|volcano|:volcano:|volcano|685|
+|mount_fuji|:mount_fuji:|mount fuji|686|
+|camping|:camping:|camping|687|
+|beach_umbrella|:beach_umbrella:|beach with umbrella|688|
+|desert|:desert:|desert|689|
+|desert_island|:desert_island:|desert island|690|
+|national_park|:national_park:|national park|691|

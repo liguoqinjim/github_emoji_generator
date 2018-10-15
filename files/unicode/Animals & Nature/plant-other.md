@@ -2,13 +2,15 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|bouquet|:bouquet:|bouquet|542|
-|cherry_blossom|:cherry_blossom:|cherry blossom|543|
-|white_flower|:white_flower:|white flower|544|
-|rosette|:rosette:|rosette|545|
-|rose|:rose:|rose|546|
-|wilted_flower|:wilted_flower:|wilted flower|547|
-|hibiscus|:hibiscus:|hibiscus|548|
-|sunflower|:sunflower:|sunflower|549|
-|blossom|:blossom:|blossom|550|
-|tulip|:tulip:|tulip|551|
+|seedling|:seedling:|seedling|552|
+|evergreen_tree|:evergreen_tree:|evergreen tree|553|
+|deciduous_tree|:deciduous_tree:|deciduous tree|554|
+|palm_tree|:palm_tree:|palm tree|555|
+|cactus|:cactus:|cactus|556|
+|ear_of_rice|:ear_of_rice:|sheaf of rice|557|
+|herb|:herb:|herb|558|
+|shamrock|:shamrock:|shamrock|559|
+|four_leaf_clover|:four_leaf_clover:|four leaf clover|560|
+|maple_leaf|:maple_leaf:|maple leaf|561|
+|fallen_leaf|:fallen_leaf:|fallen leaf|562|
+|leaves|:leaves:|leaf fluttering in wind|563|

@@ -2,12 +2,15 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|whale|:whale:|spouting whale|521|
-|whale2|:whale2:|whale|522|
-|dolphin|:dolphin:|dolphin|523|
-|fish|:fish:|fish|524|
-|tropical_fish|:tropical_fish:|tropical fish|525|
-|blowfish|:blowfish:|blowfish|526|
-|shark|:shark:|shark|527|
-|octopus|:octopus:|octopus|528|
-|shell|:shell:|spiral shell|529|
+|snail|:snail:|snail|530|
+|butterfly|:butterfly:|butterfly|531|
+|bug|:bug:|bug|532|
+|ant|:ant:|ant|533|
+|bee|:bee:|honeybee|534|
+|beetle|:beetle:|lady beetle|535|
+|||cricket|536|
+|spider|:spider:|spider|537|
+|spider_web|:spider_web:|spider web|538|
+|scorpion|:scorpion:|scorpion|539|
+|||⊛ mosquito|540|
+|||⊛ microbe|541|

@@ -2,27 +2,36 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|twisted_rightwards_arrows|:twisted_rightwards_arrows:|shuffle tracks button|1246|
-|repeat|:repeat:|repeat button|1247|
-|repeat_one|:repeat_one:|repeat single button|1248|
-|arrow_forward|:arrow_forward:|play button|1249|
-|fast_forward|:fast_forward:|fast-forward button|1250|
-|next_track_button|:next_track_button:|next track button|1251|
-|play_or_pause_button|:play_or_pause_button:|play or pause button|1252|
-|arrow_backward|:arrow_backward:|reverse button|1253|
-|rewind|:rewind:|fast reverse button|1254|
-|previous_track_button|:previous_track_button:|last track button|1255|
-|arrow_up_small|:arrow_up_small:|upwards button|1256|
-|arrow_double_up|:arrow_double_up:|fast up button|1257|
-|arrow_down_small|:arrow_down_small:|downwards button|1258|
-|arrow_double_down|:arrow_double_down:|fast down button|1259|
-|pause_button|:pause_button:|pause button|1260|
-|stop_button|:stop_button:|stop button|1261|
-|record_button|:record_button:|record button|1262|
-|||eject button|1263|
-|cinema|:cinema:|cinema|1264|
-|low_brightness|:low_brightness:|dim button|1265|
-|high_brightness|:high_brightness:|bright button|1266|
-|signal_strength|:signal_strength:|antenna bars|1267|
-|vibration_mode|:vibration_mode:|vibration mode|1268|
-|mobile_phone_off|:mobile_phone_off:|mobile phone off|1269|
+|||medical symbol|1270|
+|||⊛ infinity|1271|
+|recycle|:recycle:|recycling symbol|1272|
+|fleur_de_lis|:fleur_de_lis:|fleur-de-lis|1273|
+|trident|:trident:|trident emblem|1274|
+|name_badge|:name_badge:|name badge|1275|
+|beginner|:beginner:|Japanese symbol for beginner|1276|
+|o|:o:|heavy large circle|1277|
+|white_check_mark|:white_check_mark:|white heavy check mark|1278|
+|ballot_box_with_check|:ballot_box_with_check:|ballot box with check|1279|
+|heavy_check_mark|:heavy_check_mark:|heavy check mark|1280|
+|heavy_multiplication_x|:heavy_multiplication_x:|heavy multiplication x|1281|
+|x|:x:|cross mark|1282|
+|negative_squared_cross_mark|:negative_squared_cross_mark:|cross mark button|1283|
+|heavy_plus_sign|:heavy_plus_sign:|heavy plus sign|1284|
+|heavy_minus_sign|:heavy_minus_sign:|heavy minus sign|1285|
+|heavy_division_sign|:heavy_division_sign:|heavy division sign|1286|
+|curly_loop|:curly_loop:|curly loop|1287|
+|loop|:loop:|double curly loop|1288|
+|part_alternation_mark|:part_alternation_mark:|part alternation mark|1289|
+|eight_spoked_asterisk|:eight_spoked_asterisk:|eight-spoked asterisk|1290|
+|eight_pointed_black_star|:eight_pointed_black_star:|eight-pointed star|1291|
+|sparkle|:sparkle:|sparkle|1292|
+|bangbang|:bangbang:|double exclamation mark|1293|
+|interrobang|:interrobang:|exclamation question mark|1294|
+|question|:question:|question mark|1295|
+|grey_question|:grey_question:|white question mark|1296|
+|grey_exclamation|:grey_exclamation:|white exclamation mark|1297|
+|exclamation|:exclamation:|exclamation mark|1298|
+|wavy_dash|:wavy_dash:|wavy dash|1299|
+|copyright|:copyright:|copyright|1300|
+|registered|:registered:|registered|1301|
+|tm|:tm:|trade mark|1302|

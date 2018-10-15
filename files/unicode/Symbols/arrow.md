@@ -2,16 +2,24 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|warning|:warning:|warning|1187|
-|children_crossing|:children_crossing:|children crossing|1188|
-|no_entry|:no_entry:|no entry|1189|
-|no_entry_sign|:no_entry_sign:|prohibited|1190|
-|no_bicycles|:no_bicycles:|no bicycles|1191|
-|no_smoking|:no_smoking:|no smoking|1192|
-|do_not_litter|:do_not_litter:|no littering|1193|
-|non-potable_water|:non-potable_water:|non-potable water|1194|
-|no_pedestrians|:no_pedestrians:|no pedestrians|1195|
-|no_mobile_phones|:no_mobile_phones:|no mobile phones|1196|
-|underage|:underage:|no one under eighteen|1197|
-|radioactive|:radioactive:|radioactive|1198|
-|biohazard|:biohazard:|biohazard|1199|
+|arrow_up|:arrow_up:|up arrow|1200|
+|arrow_upper_right|:arrow_upper_right:|up-right arrow|1201|
+|arrow_right|:arrow_right:|right arrow|1202|
+|arrow_lower_right|:arrow_lower_right:|down-right arrow|1203|
+|arrow_down|:arrow_down:|down arrow|1204|
+|arrow_lower_left|:arrow_lower_left:|down-left arrow|1205|
+|arrow_left|:arrow_left:|left arrow|1206|
+|arrow_upper_left|:arrow_upper_left:|up-left arrow|1207|
+|arrow_up_down|:arrow_up_down:|up-down arrow|1208|
+|left_right_arrow|:left_right_arrow:|left-right arrow|1209|
+|leftwards_arrow_with_hook|:leftwards_arrow_with_hook:|right arrow curving left|1210|
+|arrow_right_hook|:arrow_right_hook:|left arrow curving right|1211|
+|arrow_heading_up|:arrow_heading_up:|right arrow curving up|1212|
+|arrow_heading_down|:arrow_heading_down:|right arrow curving down|1213|
+|arrows_clockwise|:arrows_clockwise:|clockwise vertical arrows|1214|
+|arrows_counterclockwise|:arrows_counterclockwise:|counterclockwise arrows button|1215|
+|back|:back:|BACK arrow|1216|
+|end|:end:|END arrow|1217|
+|on|:on:|ON! arrow|1218|
+|soon|:soon:|SOON arrow|1219|
+|top|:top:|TOP arrow|1220|

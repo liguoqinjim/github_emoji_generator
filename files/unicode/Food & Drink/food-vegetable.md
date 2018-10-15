@@ -2,20 +2,15 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|grapes|:grapes:|grapes|564|
-|melon|:melon:|melon|565|
-|watermelon|:watermelon:|watermelon|566|
-|mandarin|:mandarin:|tangerine|567|
-|lemon|:lemon:|lemon|568|
-|banana|:banana:|banana|569|
-|pineapple|:pineapple:|pineapple|570|
-|||⊛ mango|571|
-|apple|:apple:|red apple|572|
-|green_apple|:green_apple:|green apple|573|
-|pear|:pear:|pear|574|
-|peach|:peach:|peach|575|
-|cherries|:cherries:|cherries|576|
-|strawberry|:strawberry:|strawberry|577|
-|kiwi_fruit|:kiwi_fruit:|kiwi fruit|578|
-|tomato|:tomato:|tomato|579|
-|||coconut|580|
+|avocado|:avocado:|avocado|581|
+|eggplant|:eggplant:|eggplant|582|
+|potato|:potato:|potato|583|
+|carrot|:carrot:|carrot|584|
+|corn|:corn:|ear of corn|585|
+|hot_pepper|:hot_pepper:|hot pepper|586|
+|cucumber|:cucumber:|cucumber|587|
+|||⊛ leafy green|588|
+|||broccoli|589|
+|mushroom|:mushroom:|mushroom|590|
+|peanuts|:peanuts:|peanuts|591|
+|chestnut|:chestnut:|chestnut|592|

@@ -2,11 +2,12 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|crocodile|:crocodile:|crocodile|513|
-|turtle|:turtle:|turtle|514|
-|lizard|:lizard:|lizard|515|
-|snake|:snake:|snake|516|
-|dragon_face|:dragon_face:|dragon face|517|
-|dragon|:dragon:|dragon|518|
-|||sauropod|519|
-|||T-Rex|520|
+|whale|:whale:|spouting whale|521|
+|whale2|:whale2:|whale|522|
+|dolphin|:dolphin:|dolphin|523|
+|fish|:fish:|fish|524|
+|tropical_fish|:tropical_fish:|tropical fish|525|
+|blowfish|:blowfish:|blowfish|526|
+|shark|:shark:|shark|527|
+|octopus|:octopus:|octopus|528|
+|shell|:shell:|spiral shell|529|

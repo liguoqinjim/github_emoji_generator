@@ -2,15 +2,13 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|snail|:snail:|snail|530|
-|butterfly|:butterfly:|butterfly|531|
-|bug|:bug:|bug|532|
-|ant|:ant:|ant|533|
-|bee|:bee:|honeybee|534|
-|beetle|:beetle:|lady beetle|535|
-|||cricket|536|
-|spider|:spider:|spider|537|
-|spider_web|:spider_web:|spider web|538|
-|scorpion|:scorpion:|scorpion|539|
-|||⊛ mosquito|540|
-|||⊛ microbe|541|
+|bouquet|:bouquet:|bouquet|542|
+|cherry_blossom|:cherry_blossom:|cherry blossom|543|
+|white_flower|:white_flower:|white flower|544|
+|rosette|:rosette:|rosette|545|
+|rose|:rose:|rose|546|
+|wilted_flower|:wilted_flower:|wilted flower|547|
+|hibiscus|:hibiscus:|hibiscus|548|
+|sunflower|:sunflower:|sunflower|549|
+|blossom|:blossom:|blossom|550|
+|tulip|:tulip:|tulip|551|

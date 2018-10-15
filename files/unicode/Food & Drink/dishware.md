@@ -2,17 +2,9 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|baby_bottle|:baby_bottle:|baby bottle|656|
-|milk_glass|:milk_glass:|glass of milk|657|
-|coffee|:coffee:|hot beverage|658|
-|tea|:tea:|teacup without handle|659|
-|sake|:sake:|sake|660|
-|champagne|:champagne:|bottle with popping cork|661|
-|wine_glass|:wine_glass:|wine glass|662|
-|cocktail|:cocktail:|cocktail glass|663|
-|tropical_drink|:tropical_drink:|tropical drink|664|
-|beer|:beer:|beer mug|665|
-|beers|:beers:|clinking beer mugs|666|
-|clinking_glasses|:clinking_glasses:|clinking glasses|667|
-|tumbler_glass|:tumbler_glass:|tumbler glass|668|
-|||cup with straw|669|
+|||chopsticks|670|
+|plate_with_cutlery|:plate_with_cutlery:|fork and knife with plate|671|
+|fork_and_knife|:fork_and_knife:|fork and knife|672|
+|spoon|:spoon:|spoon|673|
+|hocho|:hocho:|kitchen knife|674|
+|amphora|:amphora:|amphora|675|

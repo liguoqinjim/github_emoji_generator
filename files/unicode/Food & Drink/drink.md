@@ -2,17 +2,17 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|icecream|:icecream:|soft ice cream|642|
-|shaved_ice|:shaved_ice:|shaved ice|643|
-|ice_cream|:ice_cream:|ice cream|644|
-|doughnut|:doughnut:|doughnut|645|
-|cookie|:cookie:|cookie|646|
-|birthday|:birthday:|birthday cake|647|
-|cake|:cake:|shortcake|648|
-|||⊛ cupcake|649|
-|||pie|650|
-|chocolate_bar|:chocolate_bar:|chocolate bar|651|
-|candy|:candy:|candy|652|
-|lollipop|:lollipop:|lollipop|653|
-|custard|:custard:|custard|654|
-|honey_pot|:honey_pot:|honey pot|655|
+|baby_bottle|:baby_bottle:|baby bottle|656|
+|milk_glass|:milk_glass:|glass of milk|657|
+|coffee|:coffee:|hot beverage|658|
+|tea|:tea:|teacup without handle|659|
+|sake|:sake:|sake|660|
+|champagne|:champagne:|bottle with popping cork|661|
+|wine_glass|:wine_glass:|wine glass|662|
+|cocktail|:cocktail:|cocktail glass|663|
+|tropical_drink|:tropical_drink:|tropical drink|664|
+|beer|:beer:|beer mug|665|
+|beers|:beers:|clinking beer mugs|666|
+|clinking_glasses|:clinking_glasses:|clinking glasses|667|
+|tumbler_glass|:tumbler_glass:|tumbler glass|668|
+|||cup with straw|669|

@@ -2,12 +2,12 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|mute|:mute:|muted speaker|993|
-|speaker|:speaker:|speaker low volume|994|
-|sound|:sound:|speaker medium volume|995|
-|loud_sound|:loud_sound:|speaker high volume|996|
-|loudspeaker|:loudspeaker:|loudspeaker|997|
-|mega|:mega:|megaphone|998|
-|postal_horn|:postal_horn:|postal horn|999|
-|bell|:bell:|bell|1000|
-|no_bell|:no_bell:|bell with slash|1001|
+|musical_score|:musical_score:|musical score|1002|
+|musical_note|:musical_note:|musical note|1003|
+|notes|:notes:|musical notes|1004|
+|studio_microphone|:studio_microphone:|studio microphone|1005|
+|level_slider|:level_slider:|level slider|1006|
+|control_knobs|:control_knobs:|control knobs|1007|
+|microphone|:microphone:|microphone|1008|
+|headphones|:headphones:|headphone|1009|
+|radio|:radio:|radio|1010|

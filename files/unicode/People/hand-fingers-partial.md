@@ -2,8 +2,9 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|wave|:wave:|waving hand|147|
-|raised_back_of_hand|:raised_back_of_hand:|raised back of hand|148|
-|raised_hand_with_fingers_splayed|:raised_hand_with_fingers_splayed:|hand with fingers splayed|149|
-|hand|:hand:|raised hand|150|
-|vulcan_salute|:vulcan_salute:|vulcan salute|151|
+|ok_hand|:ok_hand:|OK hand|152|
+|v|:v:|victory hand|153|
+|crossed_fingers|:crossed_fingers:|crossed fingers|154|
+|||love-you gesture|155|
+|metal|:metal:|sign of the horns|156|
+|call_me_hand|:call_me_hand:|call me hand|157|

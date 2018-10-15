@@ -132,6 +132,7 @@ func main() {
 				log.Fatalf("bigHead error")
 			}
 			bigHead = h
+			log.Println("bigHead:", bigHead)
 			bigHeads = append(bigHeads, bigHead)
 
 			if !initBig {
@@ -144,15 +145,18 @@ func main() {
 				mediumHeads = make([]string, 0)
 				unicodeEmojis = make([]*UnicodeEmoji, 0)
 				unicodeEmojisMedium = make([][]*UnicodeEmoji, 0)
+
+				initMedium = false
 			}
 
 			//log.Println("BigHead=", bigHead)
 		} else if trType == TR_TYPE_MEDIUM_HEAD {
 			h := s.Find("th > a").Text()
 			if h == "" {
-				log.Fatalf("bigHead error")
+				log.Fatalf("mediumHead error")
 			}
 			mediumHead = h
+			log.Println("mediumHead:", mediumHead)
 			mediumHeads = append(mediumHeads, mediumHead)
 
 			if !initMedium {
@@ -187,6 +191,7 @@ func main() {
 			}
 
 			ue := &UnicodeEmoji{Id: id, Codes: cs, ShortName: sname, BigHead: bigHead, MediumHead: mediumHead}
+			log.Println("emoji.id:", id)
 
 			unicodeEmojisSlice = append(unicodeEmojisSlice, ue)
 			unicodeEmojis = append(unicodeEmojis, ue)
