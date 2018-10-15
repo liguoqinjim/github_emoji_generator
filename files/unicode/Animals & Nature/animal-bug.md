@@ -6,7 +6,7 @@
 |butterfly|:butterfly:|butterfly|529|
 |bug|:bug:|bug|530|
 |ant|:ant:|ant|531|
-|bee|:bee:|honeybee|532|
+|honeybee|:honeybee:|honeybee|532|
 |beetle|:beetle:|lady beetle|533|
 |||cricket|534|
 |spider|:spider:|spider|535|

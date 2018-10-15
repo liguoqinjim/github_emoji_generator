@@ -6,5 +6,5 @@
 |plate_with_cutlery|:plate_with_cutlery:|fork and knife with plate|669|
 |fork_and_knife|:fork_and_knife:|fork and knife|670|
 |spoon|:spoon:|spoon|671|
-|hocho|:hocho:|kitchen knife|672|
+|knife|:knife:|kitchen knife|672|
 |amphora|:amphora:|amphora|673|

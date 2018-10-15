@@ -8,4 +8,4 @@
 |pen|:pen:|pen|1093|
 |paintbrush|:paintbrush:|paintbrush|1094|
 |crayon|:crayon:|crayon|1095|
-|memo|:memo:|memo|1096|
+|pencil|:pencil:|memo|1096|

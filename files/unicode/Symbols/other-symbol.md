@@ -30,7 +30,7 @@
 |question|:question:|question mark|1295|
 |grey_question|:grey_question:|white question mark|1296|
 |grey_exclamation|:grey_exclamation:|white exclamation mark|1297|
-|exclamation|:exclamation:|exclamation mark|1298|
+|heavy_exclamation_mark|:heavy_exclamation_mark:|exclamation mark|1298|
 |wavy_dash|:wavy_dash:|wavy dash|1299|
 |copyright|:copyright:|copyright|1300|
 |registered|:registered:|registered|1301|

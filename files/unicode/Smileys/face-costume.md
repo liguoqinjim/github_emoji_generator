@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|hankey|:hankey:|pile of poo|94|
+|shit|:shit:|pile of poo|94|
 |clown_face|:clown_face:|clown face|95|
 |japanese_ogre|:japanese_ogre:|ogre|96|
 |japanese_goblin|:japanese_goblin:|goblin|97|

@@ -4,7 +4,7 @@
 |---|---|---|---|
 |notebook_with_decorative_cover|:notebook_with_decorative_cover:|notebook with decorative cover|1049|
 |closed_book|:closed_book:|closed book|1050|
-|book|:book:|open book|1051|
+|open_book|:open_book:|open book|1051|
 |green_book|:green_book:|green book|1052|
 |blue_book|:blue_book:|blue book|1053|
 |orange_book|:orange_book:|orange book|1054|

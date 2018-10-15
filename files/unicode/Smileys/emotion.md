@@ -23,7 +23,7 @@
 |black_heart|:black_heart:|black heart|132|
 |100|:100:|hundred points|133|
 |anger|:anger:|anger symbol|134|
-|boom|:boom:|collision|135|
+|collision|:collision:|collision|135|
 |dizzy|:dizzy:|dizzy|136|
 |sweat_drops|:sweat_drops:|sweat droplets|137|
 |dash|:dash:|dashing away|138|

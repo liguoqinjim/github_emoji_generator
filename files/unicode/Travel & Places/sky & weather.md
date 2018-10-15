@@ -5,7 +5,7 @@
 |new_moon|:new_moon:|new moon|833|
 |waxing_crescent_moon|:waxing_crescent_moon:|waxing crescent moon|834|
 |first_quarter_moon|:first_quarter_moon:|first quarter moon|835|
-|moon|:moon:|waxing gibbous moon|836|
+|waxing_gibbous_moon|:waxing_gibbous_moon:|waxing gibbous moon|836|
 |full_moon|:full_moon:|full moon|837|
 |waning_gibbous_moon|:waning_gibbous_moon:|waning gibbous moon|838|
 |last_quarter_moon|:last_quarter_moon:|last quarter moon|839|

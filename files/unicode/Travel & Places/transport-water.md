@@ -3,7 +3,7 @@
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
 |anchor|:anchor:|anchor|780|
-|boat|:boat:|sailboat|781|
+|sailboat|:sailboat:|sailboat|781|
 |canoe|:canoe:|canoe|782|
 |speedboat|:speedboat:|speedboat|783|
 |passenger_ship|:passenger_ship:|passenger ship|784|

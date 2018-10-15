@@ -3,7 +3,7 @@
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
 |triumph|:triumph:|face with steam from nose|86|
-|pout|:pout:|pouting face|87|
+|rage|:rage:|pouting face|87|
 |angry|:angry:|angry face|88|
 |||face with symbols on mouth|89|
 |smiling_imp|:smiling_imp:|smiling face with horns|90|

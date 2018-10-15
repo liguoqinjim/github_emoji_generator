@@ -6,7 +6,7 @@
 |smiley|:smiley:|grinning face with big eyes|2|
 |smile|:smile:|grinning face with smiling eyes|3|
 |grin|:grin:|beaming face with smiling eyes|4|
-|laughing|:laughing:|grinning squinting face|5|
+|satisfied|:satisfied:|grinning squinting face|5|
 |sweat_smile|:sweat_smile:|grinning face with sweat|6|
 |rofl|:rofl:|rolling on the floor laughing|7|
 |joy|:joy:|face with tears of joy|8|
@@ -88,14 +88,14 @@
 |weary|:weary:|weary face|84|
 |tired_face|:tired_face:|tired face|85|
 |triumph|:triumph:|face with steam from nose|86|
-|pout|:pout:|pouting face|87|
+|rage|:rage:|pouting face|87|
 |angry|:angry:|angry face|88|
 |||face with symbols on mouth|89|
 |smiling_imp|:smiling_imp:|smiling face with horns|90|
 |imp|:imp:|angry face with horns|91|
 |skull|:skull:|skull|92|
 |skull_and_crossbones|:skull_and_crossbones:|skull and crossbones|93|
-|hankey|:hankey:|pile of poo|94|
+|shit|:shit:|pile of poo|94|
 |clown_face|:clown_face:|clown face|95|
 |japanese_ogre|:japanese_ogre:|ogre|96|
 |japanese_goblin|:japanese_goblin:|goblin|97|
@@ -136,7 +136,7 @@
 |black_heart|:black_heart:|black heart|132|
 |100|:100:|hundred points|133|
 |anger|:anger:|anger symbol|134|
-|boom|:boom:|collision|135|
+|collision|:collision:|collision|135|
 |dizzy|:dizzy:|dizzy|136|
 |sweat_drops|:sweat_drops:|sweat droplets|137|
 |dash|:dash:|dashing away|138|
@@ -151,7 +151,7 @@
 |wave|:wave:|waving hand|147|
 |raised_back_of_hand|:raised_back_of_hand:|raised back of hand|148|
 |raised_hand_with_fingers_splayed|:raised_hand_with_fingers_splayed:|hand with fingers splayed|149|
-|hand|:hand:|raised hand|150|
+|raised_hand|:raised_hand:|raised hand|150|
 |vulcan_salute|:vulcan_salute:|vulcan salute|151|
 |ok_hand|:ok_hand:|OK hand|152|
 |v|:v:|victory hand|153|
@@ -162,13 +162,13 @@
 |point_left|:point_left:|backhand index pointing left|158|
 |point_right|:point_right:|backhand index pointing right|159|
 |point_up_2|:point_up_2:|backhand index pointing up|160|
-|fu|:fu:|middle finger|161|
+|middle_finger|:middle_finger:|middle finger|161|
 |point_down|:point_down:|backhand index pointing down|162|
 |point_up|:point_up:|index pointing up|163|
-|+1|:+1:|thumbs up|164|
-|-1|:-1:|thumbs down|165|
-|fist|:fist:|raised fist|166|
-|facepunch|:facepunch:|oncoming fist|167|
+|thumbsup|:thumbsup:|thumbs up|164|
+|thumbsdown|:thumbsdown:|thumbs down|165|
+|fist_raised|:fist_raised:|raised fist|166|
+|punch|:punch:|oncoming fist|167|
 |fist_left|:fist_left:|left-facing fist|168|
 |fist_right|:fist_right:|right-facing fist|169|
 |clap|:clap:|clapping hands|170|
@@ -197,7 +197,7 @@
 |boy|:boy:|boy|193|
 |girl|:girl:|girl|194|
 |||person|195|
-|blonde_man|:blonde_man:|person: blond hair|196|
+|person_with_blond_hair|:person_with_blond_hair:|person: blond hair|196|
 |man|:man:|man|197|
 |||man: blond hair|198|
 |||⊛ man: red hair|199|
@@ -214,25 +214,25 @@
 |||older person|210|
 |older_man|:older_man:|old man|211|
 |older_woman|:older_woman:|old woman|212|
-|frowning_man|:frowning_man:|person frowning|213|
+|person_frowning|:person_frowning:|person frowning|213|
 |frowning_man|:frowning_man:|man frowning|214|
 |||woman frowning|215|
-|person_with_pouting_face|:person_with_pouting_face:|person pouting|216|
+|pouting_woman|:pouting_woman:|person pouting|216|
 |pouting_man|:pouting_man:|man pouting|217|
 |||woman pouting|218|
-|ng_man|:ng_man:|person gesturing NO|219|
-|ng_man|:ng_man:|man gesturing NO|220|
+|no_good_woman|:no_good_woman:|person gesturing NO|219|
+|no_good_man|:no_good_man:|man gesturing NO|220|
 |||woman gesturing NO|221|
-|ok_man|:ok_man:|person gesturing OK|222|
+|ok_woman|:ok_woman:|person gesturing OK|222|
 |ok_man|:ok_man:|man gesturing OK|223|
 |||woman gesturing OK|224|
-|information_desk_person|:information_desk_person:|person tipping hand|225|
+|tipping_hand_woman|:tipping_hand_woman:|person tipping hand|225|
 |tipping_hand_man|:tipping_hand_man:|man tipping hand|226|
 |||woman tipping hand|227|
-|raising_hand|:raising_hand:|person raising hand|228|
+|raising_hand_woman|:raising_hand_woman:|person raising hand|228|
 |raising_hand_man|:raising_hand_man:|man raising hand|229|
 |||woman raising hand|230|
-|bow|:bow:|person bowing|231|
+|bowing_man|:bowing_man:|person bowing|231|
 |||man bowing|232|
 |bowing_woman|:bowing_woman:|woman bowing|233|
 |man_facepalming|:man_facepalming:|person facepalming|234|
@@ -273,16 +273,16 @@
 |woman_astronaut|:woman_astronaut:|woman astronaut|269|
 |man_firefighter|:man_firefighter:|man firefighter|270|
 |woman_firefighter|:woman_firefighter:|woman firefighter|271|
-|cop|:cop:|police officer|272|
+|policeman|:policeman:|police officer|272|
 |||man police officer|273|
 |policewoman|:policewoman:|woman police officer|274|
-|detective|:detective:|detective|275|
+|male_detective|:male_detective:|detective|275|
 |||man detective|276|
 |female_detective|:female_detective:|woman detective|277|
 |guardsman|:guardsman:|guard|278|
 |||man guard|279|
 |guardswoman|:guardswoman:|woman guard|280|
-|construction_worker|:construction_worker:|construction worker|281|
+|construction_worker_man|:construction_worker_man:|construction worker|281|
 |||man construction worker|282|
 |construction_worker_woman|:construction_worker_woman:|woman construction worker|283|
 |prince|:prince:|prince|284|
@@ -326,22 +326,22 @@
 |||zombie|322|
 |||man zombie|323|
 |||woman zombie|324|
-|massage|:massage:|person getting massage|325|
+|massage_woman|:massage_woman:|person getting massage|325|
 |massage_man|:massage_man:|man getting massage|326|
 |||woman getting massage|327|
-|haircut|:haircut:|person getting haircut|328|
+|haircut_woman|:haircut_woman:|person getting haircut|328|
 |haircut_man|:haircut_man:|man getting haircut|329|
 |||woman getting haircut|330|
-|walking|:walking:|person walking|331|
+|walking_man|:walking_man:|person walking|331|
 |||man walking|332|
 |walking_woman|:walking_woman:|woman walking|333|
-|runner|:runner:|person running|334|
+|running_man|:running_man:|person running|334|
 |||man running|335|
 |running_woman|:running_woman:|woman running|336|
 |dancer|:dancer:|woman dancing|337|
 |man_dancing|:man_dancing:|man dancing|338|
 |business_suit_levitating|:business_suit_levitating:|man in suit levitating|339|
-|dancers|:dancers:|people with bunny ears|340|
+|dancing_women|:dancing_women:|people with bunny ears|340|
 |dancing_men|:dancing_men:|men with bunny ears|341|
 |||women with bunny ears|342|
 |||person in steamy room|343|
@@ -357,13 +357,13 @@
 |golfing_man|:golfing_man:|person golfing|353|
 |||man golfing|354|
 |golfing_woman|:golfing_woman:|woman golfing|355|
-|surfer|:surfer:|person surfing|356|
+|surfing_man|:surfing_man:|person surfing|356|
 |||man surfing|357|
 |surfing_woman|:surfing_woman:|woman surfing|358|
-|rowboat|:rowboat:|person rowing boat|359|
+|rowing_man|:rowing_man:|person rowing boat|359|
 |||man rowing boat|360|
 |rowing_woman|:rowing_woman:|woman rowing boat|361|
-|swimmer|:swimmer:|person swimming|362|
+|swimming_man|:swimming_man:|person swimming|362|
 |||man swimming|363|
 |swimming_woman|:swimming_woman:|woman swimming|364|
 |basketball_man|:basketball_man:|person bouncing ball|365|
@@ -372,10 +372,10 @@
 |weight_lifting_man|:weight_lifting_man:|person lifting weights|368|
 |||man lifting weights|369|
 |weight_lifting_woman|:weight_lifting_woman:|woman lifting weights|370|
-|bicyclist|:bicyclist:|person biking|371|
+|biking_man|:biking_man:|person biking|371|
 |||man biking|372|
 |biking_woman|:biking_woman:|woman biking|373|
-|mountain_bicyclist|:mountain_bicyclist:|person mountain biking|374|
+|mountain_biking_man|:mountain_biking_man:|person mountain biking|374|
 |||man mountain biking|375|
 |mountain_biking_woman|:mountain_biking_woman:|woman mountain biking|376|
 |man_cartwheeling|:man_cartwheeling:|person cartwheeling|377|
@@ -402,39 +402,39 @@
 |couple|:couple:|man and woman holding hands|398|
 |two_men_holding_hands|:two_men_holding_hands:|two men holding hands|399|
 |couplekiss_man_woman|:couplekiss_man_woman:|kiss|400|
-|couplekiss_man_man|:couplekiss_man_man:|kiss: woman, man|401|
+|couplekiss_woman_woman|:couplekiss_woman_woman:|kiss: woman, man|401|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: man, man|402|
 |couplekiss_woman_woman|:couplekiss_woman_woman:|kiss: woman, woman|403|
-|couple_with_heart|:couple_with_heart:|couple with heart|404|
-|couple_with_heart_man_man|:couple_with_heart_man_man:|couple with heart: woman, man|405|
+|couple_with_heart_woman_man|:couple_with_heart_woman_man:|couple with heart|404|
+|couple_with_heart_woman_woman|:couple_with_heart_woman_woman:|couple with heart: woman, man|405|
 |couple_with_heart_man_man|:couple_with_heart_man_man:|couple with heart: man, man|406|
 |couple_with_heart_woman_woman|:couple_with_heart_woman_woman:|couple with heart: woman, woman|407|
-|family|:family:|family|408|
-|family_man_boy_boy|:family_man_boy_boy:|family: man, woman, boy|409|
-|family_man_girl_girl|:family_man_girl_girl:|family: man, woman, girl|410|
-|family_man_man_boy_boy|:family_man_man_boy_boy:|family: man, woman, girl, boy|411|
-|family_man_man_boy_boy|:family_man_man_boy_boy:|family: man, woman, boy, boy|412|
-|family_man_man_girl_girl|:family_man_man_girl_girl:|family: man, woman, girl, girl|413|
-|family_man_boy_boy|:family_man_boy_boy:|family: man, man, boy|414|
-|family_man_girl_girl|:family_man_girl_girl:|family: man, man, girl|415|
-|family_man_man_boy_boy|:family_man_man_boy_boy:|family: man, man, girl, boy|416|
+|family_man_woman_boy|:family_man_woman_boy:|family|408|
+|family_woman_woman_boy|:family_woman_woman_boy:|family: man, woman, boy|409|
+|family_woman_woman_girl|:family_woman_woman_girl:|family: man, woman, girl|410|
+|family_woman_woman_girl_girl|:family_woman_woman_girl_girl:|family: man, woman, girl, boy|411|
+|family_woman_woman_boy_boy|:family_woman_woman_boy_boy:|family: man, woman, boy, boy|412|
+|family_woman_woman_girl_girl|:family_woman_woman_girl_girl:|family: man, woman, girl, girl|413|
+|family_man_man_boy|:family_man_man_boy:|family: man, man, boy|414|
+|family_man_man_girl|:family_man_man_girl:|family: man, man, girl|415|
+|family_man_man_girl_girl|:family_man_man_girl_girl:|family: man, man, girl, boy|416|
 |family_man_man_boy_boy|:family_man_man_boy_boy:|family: man, man, boy, boy|417|
 |family_man_man_girl_girl|:family_man_man_girl_girl:|family: man, man, girl, girl|418|
-|family_woman_boy_boy|:family_woman_boy_boy:|family: woman, woman, boy|419|
-|family_woman_girl_girl|:family_woman_girl_girl:|family: woman, woman, girl|420|
-|family_woman_woman_boy_boy|:family_woman_woman_boy_boy:|family: woman, woman, girl, boy|421|
+|family_woman_woman_boy|:family_woman_woman_boy:|family: woman, woman, boy|419|
+|family_woman_woman_girl|:family_woman_woman_girl:|family: woman, woman, girl|420|
+|family_woman_woman_girl_girl|:family_woman_woman_girl_girl:|family: woman, woman, girl, boy|421|
 |family_woman_woman_boy_boy|:family_woman_woman_boy_boy:|family: woman, woman, boy, boy|422|
 |family_woman_woman_girl_girl|:family_woman_woman_girl_girl:|family: woman, woman, girl, girl|423|
 |family_man_boy|:family_man_boy:|family: man, boy|424|
-|family_man_boy_boy|:family_man_boy_boy:|family: man, boy, boy|425|
+|family_man_man_boy|:family_man_man_boy:|family: man, boy, boy|425|
 |family_man_girl|:family_man_girl:|family: man, girl|426|
-|family_man_boy_boy|:family_man_boy_boy:|family: man, girl, boy|427|
-|family_man_girl_girl|:family_man_girl_girl:|family: man, girl, girl|428|
+|family_man_man_girl|:family_man_man_girl:|family: man, girl, boy|427|
+|family_man_man_girl|:family_man_man_girl:|family: man, girl, girl|428|
 |family_woman_boy|:family_woman_boy:|family: woman, boy|429|
-|family_woman_boy_boy|:family_woman_boy_boy:|family: woman, boy, boy|430|
+|family_woman_woman_boy|:family_woman_woman_boy:|family: woman, boy, boy|430|
 |family_woman_girl|:family_woman_girl:|family: woman, girl|431|
-|family_woman_boy_boy|:family_woman_boy_boy:|family: woman, girl, boy|432|
-|family_woman_girl_girl|:family_woman_girl_girl:|family: woman, girl, girl|433|
+|family_woman_woman_girl|:family_woman_woman_girl:|family: woman, girl, boy|432|
+|family_woman_woman_girl|:family_woman_woman_girl:|family: woman, girl, girl|433|
 |speaking_head|:speaking_head:|speaking head|434|
 |bust_in_silhouette|:bust_in_silhouette:|bust in silhouette|435|
 |busts_in_silhouette|:busts_in_silhouette:|busts in silhouette|436|
@@ -495,7 +495,7 @@
 |panda_face|:panda_face:|panda face|491|
 |||⊛ kangaroo|492|
 |||⊛ badger|493|
-|feet|:feet:|paw prints|494|
+|paw_prints|:paw_prints:|paw prints|494|
 |turkey|:turkey:|turkey|495|
 |chicken|:chicken:|chicken|496|
 |rooster|:rooster:|rooster|497|
@@ -522,7 +522,7 @@
 |||T-Rex|518|
 |whale|:whale:|spouting whale|519|
 |whale2|:whale2:|whale|520|
-|dolphin|:dolphin:|dolphin|521|
+|flipper|:flipper:|dolphin|521|
 |fish|:fish:|fish|522|
 |tropical_fish|:tropical_fish:|tropical fish|523|
 |blowfish|:blowfish:|blowfish|524|
@@ -533,7 +533,7 @@
 |butterfly|:butterfly:|butterfly|529|
 |bug|:bug:|bug|530|
 |ant|:ant:|ant|531|
-|bee|:bee:|honeybee|532|
+|honeybee|:honeybee:|honeybee|532|
 |beetle|:beetle:|lady beetle|533|
 |||cricket|534|
 |spider|:spider:|spider|535|
@@ -566,7 +566,7 @@
 |grapes|:grapes:|grapes|562|
 |melon|:melon:|melon|563|
 |watermelon|:watermelon:|watermelon|564|
-|mandarin|:mandarin:|tangerine|565|
+|tangerine|:tangerine:|tangerine|565|
 |lemon|:lemon:|lemon|566|
 |banana|:banana:|banana|567|
 |pineapple|:pineapple:|pineapple|568|
@@ -673,7 +673,7 @@
 |plate_with_cutlery|:plate_with_cutlery:|fork and knife with plate|669|
 |fork_and_knife|:fork_and_knife:|fork and knife|670|
 |spoon|:spoon:|spoon|671|
-|hocho|:hocho:|kitchen knife|672|
+|knife|:knife:|kitchen knife|672|
 |amphora|:amphora:|amphora|673|
 |earth_africa|:earth_africa:|globe showing Europe-Africa|674|
 |earth_americas|:earth_americas:|globe showing Americas|675|
@@ -759,7 +759,7 @@
 |oncoming_police_car|:oncoming_police_car:|oncoming police car|755|
 |taxi|:taxi:|taxi|756|
 |oncoming_taxi|:oncoming_taxi:|oncoming taxi|757|
-|car|:car:|automobile|758|
+|red_car|:red_car:|automobile|758|
 |oncoming_automobile|:oncoming_automobile:|oncoming automobile|759|
 |blue_car|:blue_car:|sport utility vehicle|760|
 |truck|:truck:|delivery truck|761|
@@ -782,7 +782,7 @@
 |stop_sign|:stop_sign:|stop sign|778|
 |construction|:construction:|construction|779|
 |anchor|:anchor:|anchor|780|
-|boat|:boat:|sailboat|781|
+|sailboat|:sailboat:|sailboat|781|
 |canoe|:canoe:|canoe|782|
 |speedboat|:speedboat:|speedboat|783|
 |passenger_ship|:passenger_ship:|passenger ship|784|
@@ -837,7 +837,7 @@
 |new_moon|:new_moon:|new moon|833|
 |waxing_crescent_moon|:waxing_crescent_moon:|waxing crescent moon|834|
 |first_quarter_moon|:first_quarter_moon:|first quarter moon|835|
-|moon|:moon:|waxing gibbous moon|836|
+|waxing_gibbous_moon|:waxing_gibbous_moon:|waxing gibbous moon|836|
 |full_moon|:full_moon:|full moon|837|
 |waning_gibbous_moon|:waning_gibbous_moon:|waning gibbous moon|838|
 |last_quarter_moon|:last_quarter_moon:|last quarter moon|839|
@@ -960,7 +960,7 @@
 |||⊛ goggles|956|
 |||⊛ lab coat|957|
 |necktie|:necktie:|necktie|958|
-|shirt|:shirt:|t-shirt|959|
+|tshirt|:tshirt:|t-shirt|959|
 |jeans|:jeans:|jeans|960|
 |||scarf|961|
 |||gloves|962|
@@ -975,7 +975,7 @@
 |pouch|:pouch:|clutch bag|971|
 |shopping|:shopping:|shopping bags|972|
 |school_satchel|:school_satchel:|backpack|973|
-|mans_shoe|:mans_shoe:|man’s shoe|974|
+|shoe|:shoe:|man’s shoe|974|
 |athletic_shoe|:athletic_shoe:|running shoe|975|
 |||⊛ hiking boot|976|
 |||⊛ flat shoe|977|
@@ -1018,7 +1018,7 @@
 |drum|:drum:|drum|1014|
 |iphone|:iphone:|mobile phone|1015|
 |calling|:calling:|mobile phone with arrow|1016|
-|phone|:phone:|telephone|1017|
+|telephone|:telephone:|telephone|1017|
 |telephone_receiver|:telephone_receiver:|telephone receiver|1018|
 |pager|:pager:|pager|1019|
 |fax|:fax:|fax machine|1020|
@@ -1049,10 +1049,10 @@
 |candle|:candle:|candle|1045|
 |bulb|:bulb:|light bulb|1046|
 |flashlight|:flashlight:|flashlight|1047|
-|izakaya_lantern|:izakaya_lantern:|red paper lantern|1048|
+|lantern|:lantern:|red paper lantern|1048|
 |notebook_with_decorative_cover|:notebook_with_decorative_cover:|notebook with decorative cover|1049|
 |closed_book|:closed_book:|closed book|1050|
-|book|:book:|open book|1051|
+|open_book|:open_book:|open book|1051|
 |green_book|:green_book:|green book|1052|
 |blue_book|:blue_book:|blue book|1053|
 |orange_book|:orange_book:|orange book|1054|
@@ -1078,7 +1078,7 @@
 |chart|:chart:|chart increasing with yen|1074|
 |currency_exchange|:currency_exchange:|currency exchange|1075|
 |heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1076|
-|email|:email:|envelope|1077|
+|envelope|:envelope:|envelope|1077|
 |e-mail|:e-mail:|e-mail|1078|
 |incoming_envelope|:incoming_envelope:|incoming envelope|1079|
 |envelope_with_arrow|:envelope_with_arrow:|envelope with arrow|1080|
@@ -1097,7 +1097,7 @@
 |pen|:pen:|pen|1093|
 |paintbrush|:paintbrush:|paintbrush|1094|
 |crayon|:crayon:|crayon|1095|
-|memo|:memo:|memo|1096|
+|pencil|:pencil:|memo|1096|
 |briefcase|:briefcase:|briefcase|1097|
 |file_folder|:file_folder:|file folder|1098|
 |open_file_folder|:open_file_folder:|open file folder|1099|
@@ -1299,7 +1299,7 @@
 |question|:question:|question mark|1295|
 |grey_question|:grey_question:|white question mark|1296|
 |grey_exclamation|:grey_exclamation:|white exclamation mark|1297|
-|exclamation|:exclamation:|exclamation mark|1298|
+|heavy_exclamation_mark|:heavy_exclamation_mark:|exclamation mark|1298|
 |wavy_dash|:wavy_dash:|wavy dash|1299|
 |copyright|:copyright:|copyright|1300|
 |registered|:registered:|registered|1301|
@@ -1458,7 +1458,7 @@
 |eritrea|:eritrea:|flag: Eritrea|1454|
 |es|:es:|flag: Spain|1455|
 |ethiopia|:ethiopia:|flag: Ethiopia|1456|
-|eu|:eu:|flag: European Union|1457|
+|european_union|:european_union:|flag: European Union|1457|
 |finland|:finland:|flag: Finland|1458|
 |fiji|:fiji:|flag: Fiji|1459|
 |falkland_islands|:falkland_islands:|flag: Falkland Islands|1460|
@@ -1466,7 +1466,7 @@
 |faroe_islands|:faroe_islands:|flag: Faroe Islands|1462|
 |fr|:fr:|flag: France|1463|
 |gabon|:gabon:|flag: Gabon|1464|
-|gb|:gb:|flag: United Kingdom|1465|
+|uk|:uk:|flag: United Kingdom|1465|
 |grenada|:grenada:|flag: Grenada|1466|
 |georgia|:georgia:|flag: Georgia|1467|
 |french_guiana|:french_guiana:|flag: French Guiana|1468|

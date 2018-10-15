@@ -24,7 +24,7 @@
 |oncoming_police_car|:oncoming_police_car:|oncoming police car|755|
 |taxi|:taxi:|taxi|756|
 |oncoming_taxi|:oncoming_taxi:|oncoming taxi|757|
-|car|:car:|automobile|758|
+|red_car|:red_car:|automobile|758|
 |oncoming_automobile|:oncoming_automobile:|oncoming automobile|759|
 |blue_car|:blue_car:|sport utility vehicle|760|
 |truck|:truck:|delivery truck|761|

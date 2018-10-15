@@ -16,4 +16,4 @@
 |candle|:candle:|candle|1045|
 |bulb|:bulb:|light bulb|1046|
 |flashlight|:flashlight:|flashlight|1047|
-|izakaya_lantern|:izakaya_lantern:|red paper lantern|1048|
+|lantern|:lantern:|red paper lantern|1048|

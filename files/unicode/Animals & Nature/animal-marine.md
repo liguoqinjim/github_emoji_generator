@@ -4,7 +4,7 @@
 |---|---|---|---|
 |whale|:whale:|spouting whale|519|
 |whale2|:whale2:|whale|520|
-|dolphin|:dolphin:|dolphin|521|
+|flipper|:flipper:|dolphin|521|
 |fish|:fish:|fish|522|
 |tropical_fish|:tropical_fish:|tropical fish|523|
 |blowfish|:blowfish:|blowfish|524|

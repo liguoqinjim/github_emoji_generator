@@ -7,7 +7,7 @@
 |boy|:boy:|boy|193|
 |girl|:girl:|girl|194|
 |||person|195|
-|blonde_man|:blonde_man:|person: blond hair|196|
+|person_with_blond_hair|:person_with_blond_hair:|person: blond hair|196|
 |man|:man:|man|197|
 |||man: blond hair|198|
 |||⊛ man: red hair|199|

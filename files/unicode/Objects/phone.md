@@ -4,7 +4,7 @@
 |---|---|---|---|
 |iphone|:iphone:|mobile phone|1015|
 |calling|:calling:|mobile phone with arrow|1016|
-|phone|:phone:|telephone|1017|
+|telephone|:telephone:|telephone|1017|
 |telephone_receiver|:telephone_receiver:|telephone receiver|1018|
 |pager|:pager:|pager|1019|
 |fax|:fax:|fax machine|1020|

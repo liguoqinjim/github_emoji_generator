@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|email|:email:|envelope|1077|
+|envelope|:envelope:|envelope|1077|
 |e-mail|:e-mail:|e-mail|1078|
 |incoming_envelope|:incoming_envelope:|incoming envelope|1079|
 |envelope_with_arrow|:envelope_with_arrow:|envelope with arrow|1080|

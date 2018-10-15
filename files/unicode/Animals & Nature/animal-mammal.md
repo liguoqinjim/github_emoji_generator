@@ -54,4 +54,4 @@
 |panda_face|:panda_face:|panda face|491|
 |||⊛ kangaroo|492|
 |||⊛ badger|493|
-|feet|:feet:|paw prints|494|
+|paw_prints|:paw_prints:|paw prints|494|

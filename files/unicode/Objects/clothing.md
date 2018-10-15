@@ -7,7 +7,7 @@
 |||⊛ goggles|956|
 |||⊛ lab coat|957|
 |necktie|:necktie:|necktie|958|
-|shirt|:shirt:|t-shirt|959|
+|tshirt|:tshirt:|t-shirt|959|
 |jeans|:jeans:|jeans|960|
 |||scarf|961|
 |||gloves|962|
@@ -22,7 +22,7 @@
 |pouch|:pouch:|clutch bag|971|
 |shopping|:shopping:|shopping bags|972|
 |school_satchel|:school_satchel:|backpack|973|
-|mans_shoe|:mans_shoe:|man’s shoe|974|
+|shoe|:shoe:|man’s shoe|974|
 |athletic_shoe|:athletic_shoe:|running shoe|975|
 |||⊛ hiking boot|976|
 |||⊛ flat shoe|977|

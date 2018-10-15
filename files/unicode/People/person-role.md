@@ -34,16 +34,16 @@
 |woman_astronaut|:woman_astronaut:|woman astronaut|269|
 |man_firefighter|:man_firefighter:|man firefighter|270|
 |woman_firefighter|:woman_firefighter:|woman firefighter|271|
-|cop|:cop:|police officer|272|
+|policeman|:policeman:|police officer|272|
 |||man police officer|273|
 |policewoman|:policewoman:|woman police officer|274|
-|detective|:detective:|detective|275|
+|male_detective|:male_detective:|detective|275|
 |||man detective|276|
 |female_detective|:female_detective:|woman detective|277|
 |guardsman|:guardsman:|guard|278|
 |||man guard|279|
 |guardswoman|:guardswoman:|woman guard|280|
-|construction_worker|:construction_worker:|construction worker|281|
+|construction_worker_man|:construction_worker_man:|construction worker|281|
 |||man construction worker|282|
 |construction_worker_woman|:construction_worker_woman:|woman construction worker|283|
 |prince|:prince:|prince|284|

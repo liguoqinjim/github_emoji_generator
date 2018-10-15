@@ -6,7 +6,7 @@
 |smiley|:smiley:|grinning face with big eyes|2|
 |smile|:smile:|grinning face with smiling eyes|3|
 |grin|:grin:|beaming face with smiling eyes|4|
-|laughing|:laughing:|grinning squinting face|5|
+|satisfied|:satisfied:|grinning squinting face|5|
 |sweat_smile|:sweat_smile:|grinning face with sweat|6|
 |rofl|:rofl:|rolling on the floor laughing|7|
 |joy|:joy:|face with tears of joy|8|

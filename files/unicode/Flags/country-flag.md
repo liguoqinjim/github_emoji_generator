@@ -75,7 +75,7 @@
 |eritrea|:eritrea:|flag: Eritrea|1454|
 |es|:es:|flag: Spain|1455|
 |ethiopia|:ethiopia:|flag: Ethiopia|1456|
-|eu|:eu:|flag: European Union|1457|
+|european_union|:european_union:|flag: European Union|1457|
 |finland|:finland:|flag: Finland|1458|
 |fiji|:fiji:|flag: Fiji|1459|
 |falkland_islands|:falkland_islands:|flag: Falkland Islands|1460|
@@ -83,7 +83,7 @@
 |faroe_islands|:faroe_islands:|flag: Faroe Islands|1462|
 |fr|:fr:|flag: France|1463|
 |gabon|:gabon:|flag: Gabon|1464|
-|gb|:gb:|flag: United Kingdom|1465|
+|uk|:uk:|flag: United Kingdom|1465|
 |grenada|:grenada:|flag: Grenada|1466|
 |georgia|:georgia:|flag: Georgia|1467|
 |french_guiana|:french_guiana:|flag: French Guiana|1468|
