@@ -2,8 +2,8 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||church|714|
-|||mosque|715|
-|||synagogue|716|
-|||shinto shrine|717|
-|||kaaba|718|
+|church|:church:|church|714|
+|mosque|:mosque:|mosque|715|
+|synagogue|:synagogue:|synagogue|716|
+|shinto_shrine|:shinto_shrine:|shinto shrine|717|
+|kaaba|:kaaba:|kaaba|718|

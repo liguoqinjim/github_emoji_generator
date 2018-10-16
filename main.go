@@ -401,11 +401,13 @@ func (unicodeEmoji *UnicodeEmoji) MatchGithubEmoji() {
 			continue
 		} else {
 			if !unicodeEmoji.Match { //github emojis可能有多个相同unicode但是不一样的name的情况
-				githubEmoji.Match = true
-			} else {
 				unicodeEmoji.Match = true
 				githubEmoji.Match = true
 				unicodeEmoji.GithubEmoji = githubEmoji
+			} else {
+				unicodeEmoji.Match = true
+				githubEmoji.Match = true
+				//unicodeEmoji.GithubEmoji = githubEmoji
 			}
 		}
 	}

@@ -2,9 +2,9 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||backhand index pointing left|158|
-|||backhand index pointing right|159|
-|||backhand index pointing up|160|
-|||middle finger|161|
-|||backhand index pointing down|162|
-|||index pointing up|163|
+|point_left|:point_left:|backhand index pointing left|158|
+|point_right|:point_right:|backhand index pointing right|159|
+|point_up_2|:point_up_2:|backhand index pointing up|160|
+|fu|:fu:|middle finger|161|
+|point_down|:point_down:|backhand index pointing down|162|
+|point_up|:point_up:|index pointing up|163|

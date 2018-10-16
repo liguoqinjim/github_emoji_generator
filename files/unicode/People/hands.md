@@ -2,9 +2,9 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||clapping hands|170|
-|||raising hands|171|
-|||open hands|172|
+|clap|:clap:|clapping hands|170|
+|raised_hands|:raised_hands:|raising hands|171|
+|open_hands|:open_hands:|open hands|172|
 |||palms up together|173|
-|||handshake|174|
-|||folded hands|175|
+|handshake|:handshake:|handshake|174|
+|pray|:pray:|folded hands|175|

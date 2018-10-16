@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||hugging face|28|
+|hugs|:hugs:|hugging face|28|
 |||face with hand over mouth|29|
 |||shushing face|30|
-|||thinking face|31|
+|thinking|:thinking:|thinking face|31|

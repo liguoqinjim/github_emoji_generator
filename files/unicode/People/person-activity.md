@@ -2,23 +2,23 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||person getting massage|325|
-|||man getting massage|326|
+|massage|:massage:|person getting massage|325|
+|massage_man|:massage_man:|man getting massage|326|
 |||woman getting massage|327|
-|||person getting haircut|328|
-|||man getting haircut|329|
+|haircut|:haircut:|person getting haircut|328|
+|haircut_man|:haircut_man:|man getting haircut|329|
 |||woman getting haircut|330|
-|||person walking|331|
+|walking|:walking:|person walking|331|
 |||man walking|332|
-|||woman walking|333|
-|||person running|334|
+|walking_woman|:walking_woman:|woman walking|333|
+|runner|:runner:|person running|334|
 |||man running|335|
-|||woman running|336|
-|||woman dancing|337|
-|||man dancing|338|
-|||man in suit levitating|339|
-|||people with bunny ears|340|
-|||men with bunny ears|341|
+|running_woman|:running_woman:|woman running|336|
+|dancer|:dancer:|woman dancing|337|
+|man_dancing|:man_dancing:|man dancing|338|
+|business_suit_levitating|:business_suit_levitating:|man in suit levitating|339|
+|dancers|:dancers:|people with bunny ears|340|
+|dancing_men|:dancing_men:|men with bunny ears|341|
 |||women with bunny ears|342|
 |||person in steamy room|343|
 |||man in steamy room|344|
